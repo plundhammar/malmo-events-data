@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T08:22:53.881039+02:00",
-  "event_count": 952,
+  "generated_at": "2026-08-28T10:38:37.147164+02:00",
+  "event_count": 969,
   "events": [
     {
       "title": "Hjärtat mitt",
@@ -964,6 +964,18 @@
       "event_url": "https://kulturcentralen.nu/evenemang/tradgardskonsert-med-anna-hertzman"
     },
     {
+      "title": "Vandring Ven runt på Skåneleden",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "100 kr",
+      "description": "Malmö / 29 aug",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vandring/vandring/vandring-ven-runt-pa-skaneleden/"
+    },
+    {
       "title": "Ystad DeLuxe: Peter Boisen möter Kurt Wallander",
       "start_datetime": "2026-08-29T00:00:00+02:00",
       "end_datetime": null,
@@ -1624,6 +1636,18 @@
       "event_url": "https://mau.se/kalender/antagningsseminarium--lina-gassner-kanters/"
     },
     {
+      "title": "Drop in med Malmö släktforskarförening",
+      "start_datetime": "2026-09-01T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Kulturhyllan",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "Drop in med Malmö Släktforskarförening på Dawit Isaak-biblioteket, på Kulturhyllan i Hyllie.",
+      "source_name": "Kulturhyllan",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e59771b8"
+    },
+    {
       "title": "The Lab: Workshop - The Scheduled Freelance Crisis",
       "start_datetime": "2026-09-02T10:00:00+02:00",
       "end_datetime": null,
@@ -2278,7 +2302,7 @@
       "venue": "Malmö Opera",
       "address": null,
       "category": "TEATER",
-      "price": "SLUTSÅLT",
+      "price": null,
       "description": null,
       "source_name": "Malmö Opera",
       "event_url": "https://www.malmoopera.se/forestallningar/shining-opera-upp-till-30"
@@ -3136,6 +3160,18 @@
       "event_url": "https://formdesigncenter.com/en/program/valdebatt"
     },
     {
+      "title": "The Dancing Bee – A Talk by Dr. Arzhang Manavi",
+      "start_datetime": "2026-09-10T17:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Kulturhyllan",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "Dr. Arzhang Manavi is a sociologist of literature, writer, and researcher. He has lived in exile for many years and is based in Malmö, Sweden.",
+      "source_name": "Kulturhyllan",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e59771d6"
+    },
+    {
       "title": "Tony",
       "start_datetime": "2026-09-10T18:00:00+02:00",
       "end_datetime": null,
@@ -3230,6 +3266,18 @@
       "description": "Folkets Comedy är tillbaka för ännu en säsong på Grand i Malmö!!! 🖤 En torsdag i månaden bjuder vi på en ny hemlig lineup, där några av Malmös roligaste möter favoriter från andra delar av landet. Ibland kommer du känna igen någon från TV eller sociala medier, en annan gång får du chansen att upptäcka en helt ny komiker. Perfekt för dig som älskar att ha kul (och koll), men hatar att lämna Möllan. Oavsett vilka som står på scen lovar vi två saker: det kommer vara kul, och det kommer vara gratis. Vad mer kan man begära? 🖤",
       "source_name": "Grand Malmö",
       "event_url": "https://grandmalmo.se/calendar/folkets-comedy-2026"
+    },
+    {
+      "title": "Hösttur i Jämtland - Pyramider, Issjön, Anaris och Hossjöbottnarna",
+      "start_datetime": "2026-09-10T00:00:00+02:00",
+      "end_datetime": "2026-09-13T23:59:59+02:00",
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "5100 kr",
+      "description": "Malmö / Pågår mellan 10 sep - 13 sep",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/fjallturer1/fjall---sommar/fjallturer2/"
     },
     {
       "title": "Migrationsseminarium: Vad händer när exceptionella migrationsåtgärder blir en del av den normala demokratiska styrningen",
@@ -3362,6 +3410,30 @@
       "description": null,
       "source_name": "Kulturcentralen",
       "event_url": "https://kulturcentralen.nu/evenemang/hjrnspket"
+    },
+    {
+      "title": "Invigning - anmälan för lufsare & ledare",
+      "start_datetime": "2026-09-11T00:00:00+02:00",
+      "end_datetime": "2026-09-13T23:59:59+02:00",
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "250 kr",
+      "description": "Malmö / Pågår mellan 11 sep - 13 sep",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vildmarksaventyr/frilufsarna/invigning---anmalan-for-lufsare--ledare/"
+    },
+    {
+      "title": "Invigning - anmälan för TVMare",
+      "start_datetime": "2026-09-11T00:00:00+02:00",
+      "end_datetime": "2026-09-13T23:59:59+02:00",
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "0 kr",
+      "description": "Malmö / Pågår mellan 11 sep - 13 sep",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vildmarksaventyr/tvm---aventyrsgrupper/invigning---anmalan-for-tvmare/"
     },
     {
       "title": "Invisible Rulers",
@@ -3578,6 +3650,18 @@
       "description": "David Urwitz rör sig i traditionen av svenska singer-songwriters, där det lågmälda berättandet står ...",
       "source_name": "Victoriateatern",
       "event_url": "https://victoria.se/sv/program/david-urwitz-2026"
+    },
+    {
+      "title": "Hilleshögs dalar, Sundvik och Ålabodarna vandring",
+      "start_datetime": "2026-09-12T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "100 kr",
+      "description": "Malmö / 12 sep",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vandring/vandring/hilleshogs-dalar-sundvik-och-alabodarna-vandring/"
     },
     {
       "title": "Kvällen är ung",
@@ -4120,6 +4204,18 @@
       "event_url": "https://mau.se/kalender/disputation---hilda-gustafsson/"
     },
     {
+      "title": "Fredag vandring i Lomma – dammar, natur och kust",
+      "start_datetime": "2026-09-18T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "100 kr",
+      "description": "Malmö / 18 sep",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vandring/vandring/fredag-vandring-i-lomma--dammar-natur-och-kust/"
+    },
+    {
       "title": "Jävla Karlar - Fyra föreställningar 18, 19 + 20 september",
       "start_datetime": "2026-09-18T00:00:00+02:00",
       "end_datetime": "2026-09-20T00:00:00+02:00",
@@ -4310,6 +4406,18 @@
       "description": "Rigmor på svenska",
       "source_name": "Victoriateatern",
       "event_url": "https://victoria.se/sv/program/rigmor-gustafsson-kvartett"
+    },
+    {
+      "title": "Rundtur Anklam-Skepperöd",
+      "start_datetime": "2026-09-19T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "75 kr",
+      "description": "Malmö / 19 sep",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vandring/vandring/rundtur-anklam-skepperod/"
     },
     {
       "title": "PAPPERSSVALAN – MEMORY WAX",
@@ -4504,6 +4612,18 @@
       "event_url": "https://victoria.se/sv/program/fredrik-kronkvist-quartet-coltrane"
     },
     {
+      "title": "Jämtlands Shangri-La och den sista måltiden (23/9-27/9)",
+      "start_datetime": "2026-09-23T00:00:00+02:00",
+      "end_datetime": "2026-09-27T23:59:59+02:00",
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "3000 kr",
+      "description": "Malmö / Pågår mellan 23 sep - 27 sep",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/fjallturer1/fjall---sommar/jamtlands-shangri-la-och-den-sista-maltiden-239-279/"
+    },
+    {
       "title": "Stärkandet av ”Centaur-staten”: Vräkningar, familjepoliserande och rasism i Sverige",
       "start_datetime": "2026-09-23T00:00:00+02:00",
       "end_datetime": null,
@@ -4660,6 +4780,18 @@
       "event_url": "https://biografspegeln.se/program/resan-till-piemonte"
     },
     {
+      "title": "War love peace",
+      "start_datetime": "2026-09-25T18:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Kulturhyllan",
+      "address": null,
+      "category": "LITTERATUR",
+      "price": null,
+      "description": "War love peace is an event which Poetry becomes our collective bridge. A movement towards intersectional unity among Sweden based poets, readers and writers with intersectional identities.",
+      "source_name": "Kulturhyllan",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e5977165"
+    },
+    {
       "title": "Gengångare",
       "start_datetime": "2026-09-25T19:00:00+02:00",
       "end_datetime": null,
@@ -4778,6 +4910,18 @@
       "description": null,
       "source_name": "Kulturcentralen",
       "event_url": "https://kulturcentralen.nu/evenemang/hamsa-mounif"
+    },
+    {
+      "title": "Kulturljudzonen: Sonic Citizens",
+      "start_datetime": "2026-09-25T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Malmö universitet",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "Event 25 september - 26 september",
+      "source_name": "Malmö universitet",
+      "event_url": "https://mau.se/kalender/sonic-citizens/"
     },
     {
       "title": "Malmö gallerihelg 2026",
@@ -5366,6 +5510,18 @@
       "description": "Alexandra-Therese Keinings stjärnspäckade feelgood-pärla Resan till Piemonte förhandsvisas på Spegeln den 16 september. Tack till SF Studios. Fyra vänner åker tillsammans till Italien där Eva (Helena Bergström) ärvt en olivgård. Tanken är sälja gården, men väl där väcks frågan; vad har dom egentligen i Sverige att återvända till? Italien däremot har sol, god mat och charmiga bybor. Och är det inte nu man ska fånga dagen och se till att förverkliga alla sina drömmar.",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/resan-till-piemonte"
+    },
+    {
+      "title": "Halvtidsseminarium - Catarina Isgren",
+      "start_datetime": "2026-09-29T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Malmö universitet",
+      "address": null,
+      "category": "FÖRELÄSNING",
+      "price": null,
+      "description": "Seminarium 29 september",
+      "source_name": "Malmö universitet",
+      "event_url": "https://mau.se/kalender/halvtidsseminarium-catarina-isgren/"
     },
     {
       "title": "The Seoul Guardians",
@@ -6160,6 +6316,18 @@
       "event_url": "https://kulturcentralen.nu/evenemang/lina-nyberg-9"
     },
     {
+      "title": "Tryckfrihetsförordningens historia – föredrag av Mats Elzén",
+      "start_datetime": "2026-10-08T18:30:00+02:00",
+      "end_datetime": null,
+      "venue": "Kulturhyllan",
+      "address": null,
+      "category": "LITTERATUR",
+      "price": null,
+      "description": "Frihet som ideal - Om Sveriges och världens första tryckfrihetsförordning, offentlighetsprincipens födelse och kampen om det fria ordet från 1600-talet till idag.",
+      "source_name": "Kulturhyllan",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e59771f2"
+    },
+    {
       "title": "Antti Paalanen",
       "start_datetime": "2026-10-08T19:00:00+02:00",
       "end_datetime": null,
@@ -6554,6 +6722,18 @@
       "description": null,
       "source_name": "Kulturcentralen",
       "event_url": "https://kulturcentralen.nu/evenemang/brushyonestringjm"
+    },
+    {
+      "title": "Möt hösten i Snogeholm",
+      "start_datetime": "2026-10-10T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "80 kr",
+      "description": "Malmö / 10 okt",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vandring/vandring/mot-hosten-i-snogeholm/"
     },
     {
       "title": "Krismöte!",
@@ -7586,6 +7766,18 @@
       "description": null,
       "source_name": "Kulturcentralen",
       "event_url": "https://kulturcentralen.nu/evenemang/folkdivizjonvictoriadansar"
+    },
+    {
+      "title": "Höstpaddling på Rönne å",
+      "start_datetime": "2026-10-23T00:00:00+02:00",
+      "end_datetime": "2026-10-25T23:59:59+01:00",
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "400 kr",
+      "description": "Malmö / Pågår mellan 23 okt - 25 okt",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vatten--paddling/kanadensare/hostpaddling-pa-ronne-a/"
     },
     {
       "title": "Torsson 50 år - Att vilja men inte kunna",
@@ -9710,6 +9902,18 @@
       "description": null,
       "source_name": "Malmö Stadsteater",
       "event_url": "https://www.malmostadsteater.se/i-skymningslandet"
+    },
+    {
+      "title": "Adventspaddling i Häckebergasjön med kanadensare",
+      "start_datetime": "2026-11-28T00:00:00+01:00",
+      "end_datetime": null,
+      "venue": "Friluftsfrämjandet Malmö",
+      "address": "Limhamnsgårdens allé 37, Limhamn",
+      "category": "ÖVRIGT",
+      "price": "200 kr",
+      "description": "Malmö / 28 nov",
+      "source_name": "Friluftsfrämjandet Malmö",
+      "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vatten--paddling/kanadensare/adventspaddling-i-hackebergasjon-med-kanadensare/"
     },
     {
       "title": "Allsång",
