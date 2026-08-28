@@ -2,16 +2,16 @@
 
 Publik statisk export för mobilklienten. `events.json` innehåller kommande Malmö-event i schema version 1.
 
-## Uppdatera exporten lokalt
+## Automatisk uppdatering
 
-Kör från desktopappens projektmapp:
-
-```bash
-.venv/bin/python scripts/export_events_json.py ../malmo-events-data/events.json
-cd ../malmo-events-data
-git add events.json
-git commit -m "Uppdatera event"
-git push
-```
+När desktopappen hämtar nya event exporterar den automatiskt `events.json`, committar filen och pushar den till detta repo. En separat GitHub deploy key ger enbart detta repo skrivbehörighet.
 
 Mobilklienten ska hämta `events.json` över HTTPS och behålla sin senaste lyckade hämtning lokalt.
+
+## GitHub Pages
+
+När GitHub Pages aktiverats för branchen `main` från `/ (root)` finns flödet på:
+
+```text
+https://plundhammar.github.io/malmo-events-data/events.json
+```
