@@ -1,548 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T12:09:27.672721+02:00",
-  "event_count": 969,
+  "generated_at": "2026-08-29T12:22:51.000378+02:00",
+  "event_count": 964,
   "events": [
-    {
-      "title": "Hjärtat mitt",
-      "start_datetime": "2026-08-28T14:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Camera",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Inspirerad av regissören Margherita Spampinatos egen barndom hyllar Hjärtat mitt vardagens små mirakel, ritualernas magi och mötet mellan generationer. Filmen förhandsvisas på Spegeln den 8 augusti. Tack till Smorgasbord Picture House. När den bestämda tant Gela med viss motvilja över sommaren öppnar upp sitt hem för sin systersons pojke Nico kolliderar två världar. Gelas våning och umgänge med de andra äldre kvinnorna runt innergården präglas av en ritualfylld tillvaro där religion, vidskepelse, hemligheter och vardagsliv flyter ihop. För Nico innebär det ett möte med en annan tid, andra villkor och snart; en annan version av sig själv. Medan Nico kämpar för att återfå sin konfiskerade mobiltelefon försöker Gela istället få honom att leva i verkligheten, som är långt större än vad pojken är van vid. I protesterna och kollisionen växer steg för steg både humor, värme och ett band fram mellan dem - ett band som ingen av dem visste att de behövde.",
-      "source_name": "Biograf Spegeln",
-      "event_url": "https://biografspegeln.se/program/hjartat-mitt"
-    },
-    {
-      "title": "Blir du ledsen om jag dör?",
-      "start_datetime": "2026-08-28T14:30:00+02:00",
-      "end_datetime": null,
-      "venue": "Bar Deco",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Malmödramat Blir du ledsen om jag dör? är baserad på Nicolas Lunabbas hyllade självbiografi med samma namn. Nic, 29 år, arbetar som fritidsledare och baskettränare för \"Vårt Malmö\", en organisation som riktar sig mot utsatta barn och unga. Under åren som gått har flera av ungdomarna han kommit i kontakt med dödats i gängkonflikter. En dag träffar han Elijah, en charmig och bråkig kille som likt Nic själv har en självklar talang för basket. Elijah kryper under huden på Nic och han klarar inte av att passivt se ännu ett livsöde gå förlorat och bestämmer sig för att ta saken i egna händer. Kan han rädda en av dessa ungdomar har han gjort skillnad. För att rädda Elijah undan kriminaliteten så låter Nic honom flytta in hos sig. Det blir ett beslut som kommer att förändra båda deras liv. Det här är berättelsen om två ensamma människors oväntade möte och en skildring av vad som krävs för att rädda en annan människa.",
-      "source_name": "Biograf Spegeln",
-      "event_url": "https://biografspegeln.se/program/blir-du-ledsen-om-jag-dor"
-    },
-    {
-      "title": "The Invite",
-      "start_datetime": "2026-08-28T15:15:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": null,
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260828/1515/Salongens2"
-    },
-    {
-      "title": "Siri Hustvedt – Dance Around the Self",
-      "start_datetime": "2026-08-28T15:30:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Premiär!",
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260828/1530/Salongens3"
-    },
-    {
-      "title": "Carola!",
-      "start_datetime": "2026-08-28T16:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Camera",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Carola! förhandsvisas på Spegeln den 19 augusti. Tack till TriArt. Med tillgång till ett unikt material ger filmen Carola! en inblick i människan Carola Häggkvists liv. Hon är artisten som älskats av publiken i decennier och som fascinerade Ingmar Bergman i så hög grad att han såg hennes bröllop på \"repeat\". Och hon är personen som sedan 16 års ålder blivit styrd av andra, men som vid 60 tagit kontroll över sitt eget liv. Hon är Carola och hon slutar aldrig att fascinera.",
-      "source_name": "Biograf Spegeln",
-      "event_url": "https://biografspegeln.se/program/carola"
-    },
-    {
-      "title": "Exhibition: Hanakin Henriksson Skote",
-      "start_datetime": "2026-08-28T17:00:00+02:00",
-      "end_datetime": null,
-      "venue": "STPLN",
-      "address": "Stapelbäddsgatan 3, Malmö",
-      "category": "ÖVRIGT",
-      "price": null,
-      "description": "Aug 28 5:00 PM – 9:00 PM 17:00 – 21:00 5:00 PM – 9:00 PM Exhibition: Hanakin Henriksson Skote 5:00 PM – 9:00 PM 17:00 – 21:00 5:00 PM – 9:00 PM Single-day exhibition with works by Hanakin Henriksson Skote Read more → 5:00 PM – 9:00 PM 17:00 – 21:00 5:00 PM – 9:00 PM",
-      "source_name": "STPLN",
-      "event_url": "https://www.stpln.se/our-calendar/exhibition-hanakin-henriksson-skote"
-    },
-    {
-      "title": "\"Living with your demons\" - A solo exhibition by Jakob Håkonsson",
-      "start_datetime": "2026-08-28T17:30:00+02:00",
-      "end_datetime": null,
-      "venue": "STPLN",
-      "address": "Stapelbäddsgatan 3, Malmö",
-      "category": "ÖVRIGT",
-      "price": null,
-      "description": "Aug 28 5:30 PM 17:30 5:30 PM \"Living with your demons\" - A solo exhibition by Jakob Håkonsson 5:30 PM 17:30 5:30 PM This exhibition features the demons we all carry with us. In our world they are metaphorical - here, they become literal. Read more → 5:30 PM 17:30 5:30 PM",
-      "source_name": "STPLN",
-      "event_url": "https://www.stpln.se/our-calendar/living-with-your-demons-a-solo-exhibition-by-jakob-hkonsson"
-    },
-    {
-      "title": "Karla",
-      "start_datetime": "2026-08-28T17:30:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Premiär!",
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260828/1730/Salongens2"
-    },
-    {
-      "title": "Primavera",
-      "start_datetime": "2026-08-28T17:30:00+02:00",
-      "end_datetime": null,
-      "venue": "Bar Deco",
-      "address": null,
-      "category": "MUSIK",
-      "price": null,
-      "description": "Historien om barnhemmet vars orkester trollband Europa. Cecilia är 20 år och har vuxit upp på Ospedale della Pietà, ett barnhem för flickor där de mest begåvade får ägna sig åt musik. Konsten har öppnat hennes sinne, men inte barnhemmets portar. Bara där får hon uppträda, iförd mask och bakom galler, inför Venedigs förmögna adel. Så en dag anländer en ny violinlärare, och med honom tar hennes liv en oväntad vändning. Hans namn är Antonio Vivaldi. Primavera berättar historien om ett avgörande möte mellan två människor. Den ena är en ung och begåvad violinist, instängd på ett barnhem där hennes liv styrs av andra. Den andra är en mästare som drivs av okuvlig skaparlust men försvagas av sitt ständiga behov av bekräftelse. Vad händer när deras vägar korsas?",
-      "source_name": "Biograf Spegeln",
-      "event_url": "https://biografspegeln.se/program/primavera"
-    },
-    {
-      "title": "En oväntad romans",
-      "start_datetime": "2026-08-28T18:15:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Premiär!",
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260828/1815/Salongens1"
-    },
-    {
-      "title": "One Night Only",
-      "start_datetime": "2026-08-28T18:15:00+02:00",
-      "end_datetime": null,
-      "venue": "Camera",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Tänk om en enda stökig kväll visar sig vara det bästa som någonsin hänt dig? Den nyligen dumpade Owen och den förhoppningsfulla romantikern Allie kan vara de enda två singlarna i stan som letar efter något mer än bara ett kort möte. Båda känner en gnista när de träffas, men en serie felsteg och sidouppdrag komplicerar kvällen, och håller dem isär. Medan de skyndar både emot och ifrån varandra över hela stan, är det möjligt att de upptäcker att det de mest längtar efter finns närmare än de tror.",
-      "source_name": "Biograf Spegeln",
-      "event_url": "https://biografspegeln.se/program/one-night-only"
-    },
-    {
-      "title": "The Shining",
-      "start_datetime": "2026-08-28T19:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Malmö Opera",
-      "address": null,
-      "category": "TEATER",
-      "price": null,
-      "description": null,
-      "source_name": "Malmö Opera",
-      "event_url": "https://www.malmoopera.se/forestallningar/shining"
-    },
-    {
-      "title": "The Shining - Opera upp till 30",
-      "start_datetime": "2026-08-28T19:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Malmö Opera",
-      "address": null,
-      "category": "TEATER",
-      "price": "SLUTSÅLT",
-      "description": null,
-      "source_name": "Malmö Opera",
-      "event_url": "https://www.malmoopera.se/forestallningar/shining-opera-upp-till-30"
-    },
-    {
-      "title": "The Odyssey",
-      "start_datetime": "2026-08-28T19:30:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": null,
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260828/1930/Salongens2"
-    },
-    {
-      "title": "Främlingen",
-      "start_datetime": "2026-08-28T20:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": null,
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260828/2000/Salongens3"
-    },
-    {
-      "title": "HICHAM HADDAD",
-      "start_datetime": "2026-08-28T20:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Moriska Paviljongen",
-      "address": null,
-      "category": "ÖVRIGT",
-      "price": null,
-      "description": null,
-      "source_name": "Moriska Paviljongen",
-      "event_url": "https://moriskapaviljongen.se/program/standup-hicham-haddad-28-aug-2026/"
-    },
-    {
-      "title": "LADY SINGS LADY – A Tribute to Billie Holiday",
-      "start_datetime": "2026-08-28T20:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Palladium Malmö",
-      "address": "Södergatan 15, Malmö",
-      "category": "MUSIK",
-      "price": "200 KR",
-      "description": null,
-      "source_name": "Palladium Malmö",
-      "event_url": "https://www.palladium.nu/evenemang/lady-sings-lady-a-tribute-to-billie-holiday"
-    },
-    {
-      "title": "The Dog Stars",
-      "start_datetime": "2026-08-28T20:15:00+02:00",
-      "end_datetime": null,
-      "venue": "Bar Deco",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Från Ridley Scott, regissören bakom Alien, Blade Runner, Gladiator och The Martian , kommer The Dog Stars - en filmatisering av Peter Hellers hyllade bästsäljare. Efter att ett dödligt virus nästan utplånat mänskligheten lever piloten Hig ett isolerat liv i en värld där hoppet tycks ha försvunnit. Men när en oväntad radiosignal bryter tystnaden väcks möjligheten att det fortfarande finns något att kämpa för. Peter Hellers roman har hyllats världen över för sitt poetiska berättande och sitt ovanligt mänskliga grepp om den postapokalyptiska genren. Med The Dog Stars återvänder Ridley Scott till den typ av storslagen science fiction som gjort honom till en av vår tids mest inflytelserika filmskapare - och levererar en berättelse som är lika känslomässig som visuellt storslagen.",
-      "source_name": "Biograf Spegeln",
-      "event_url": "https://biografspegeln.se/program/the-dog-stars"
-    },
-    {
-      "title": "The Invite",
-      "start_datetime": "2026-08-28T20:15:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": null,
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260828/2015/Salongens1"
-    },
-    {
-      "title": "Babymåleri",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-12-11T23:59:59+01:00",
-      "venue": "Moderna Museet Malmö",
-      "address": null,
-      "category": "WORKSHOP",
-      "price": null,
-      "description": "Babymåleri Datum 28 augusti – 11 december Kategori Workshop, Kreativt skapande Plats Moderna Museet Malmö Målgrupp Barn och familj Kom och måla med din bebis i Verkstan! Nu ger vi chansen för de allra minsta att bekanta sig med konstnärliga uttryck och måla med hela kroppen. Köp biljett på vår webb. 120 kr/baby.",
-      "source_name": "Malmö stad",
-      "event_url": "https://www.modernamuseet.se/sv/malmo/program/babymaleri/"
-    },
-    {
-      "title": "Barnvagnsvisning",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-12-09T23:59:59+01:00",
-      "venue": "Moderna Museet Malmö",
-      "address": null,
-      "category": "VISNING",
-      "price": null,
-      "description": "Barnvagnsvisning Datum 28 augusti – 9 december Kategori Visning Plats Moderna Museet Malmö Målgrupp Barn och familj Även små bebisar kan titta på konst! Barnvagnsvisningarna på Moderna Museet Malmö sker i lugnt tempo där bebisarna bestämmer takten. Boka din biljett på vår webb.",
-      "source_name": "Malmö stad",
-      "event_url": "https://www.modernamuseet.se/sv/malmo/program/barnvagnsvisning/"
-    },
-    {
-      "title": "Bouchra Khalili – How to Call a Ghost",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-08-28T23:59:59+02:00",
-      "venue": "Malmö Konsthall I sommar visar Malmö Konsthall ”How to Call a Ghost” – en utställning av den fransk-marockanska konstnären Bouchra Khalili.",
-      "address": null,
-      "category": "DESIGN",
-      "price": null,
-      "description": "Bouchra Khalili – How to Call a Ghost Datum 28 augusti – 13 september Kategori Utställning, Vernissage, Konst och design Plats Malmö Konsthall I sommar visar Malmö Konsthall ”How to Call a Ghost” – en utställning av den fransk-marockanska konstnären Bouchra Khalili.",
-      "source_name": "Malmö stad",
-      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.7f765e1719e2074a3d61c3c"
-    },
-    {
-      "title": "Buoys",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-08-30T23:59:59+02:00",
-      "venue": "Södra Varvsbassängen Upplev Buoys, en installation inspirerad av havet och den maritima miljön. Verket är ett examensprojekt av Erik Helander, student i Industridesign.",
-      "address": null,
-      "category": "ARKITEKTUR",
-      "price": null,
-      "description": "Buoys Datum 28 augusti – 30 augusti Kategori Arkitektur, Visning Plats Södra Varvsbassängen Upplev Buoys, en installation inspirerad av havet och den maritima miljön. Verket är ett examensprojekt av Erik Helander, student i Industridesign.",
-      "source_name": "Malmö stad",
-      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.7f765e1719e2074a3d61679"
-    },
-    {
-      "title": "Farmers Market på Ödet – Lokalproducerad mat och marknad",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-08-28T23:59:59+02:00",
-      "venue": "Ödet Varje torsdag förvandlas Ödets lummiga innergård till en levande marknadsplats! Kom och handla färsk mat direkt från lokala producenter, träffa dina grannar och hämta veckans skörd i Sofielund.",
-      "address": null,
-      "category": "MAT & DRYCK",
-      "price": null,
-      "description": "Farmers Market på Ödet – Lokalproducerad mat och marknad Datum 28 augusti – 8 oktober Kategori Mat och dryck, Marknad och loppis Plats Ödet Varje torsdag förvandlas Ödets lummiga innergård till en levande marknadsplats! Kom och handla färsk mat direkt från lokala producenter, träffa dina grannar och hämta veckans skörd i Sofielund.",
-      "source_name": "Malmö stad",
-      "event_url": "https://odet.nu/farmers-market/"
-    },
-    {
-      "title": "FISK – Vad gör vi när äventyret är förbi?",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Se originalsidan",
-      "address": null,
-      "category": "ÖVRIGT",
-      "price": null,
-      "description": null,
-      "source_name": "Kulturcentralen",
-      "event_url": "https://kulturcentralen.nu/evenemang/fisk-vad-gor-vi-nar-aventyret-ar"
-    },
-    {
-      "title": "Fotoutställning Malmö Seriefest",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-09-03T23:59:59+02:00",
-      "venue": "Folkets Park Nyfiken på vilka serietecknare som kommer närvara på årets Malmö Seriefest?",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Fotoutställning Malmö Seriefest Datum 28 augusti – 3 september Kategori Utställning Plats Folkets Park Nyfiken på vilka serietecknare som kommer närvara på årets Malmö Seriefest?",
-      "source_name": "Malmö stad",
-      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.5544db6919ed4ce6f5f4c3c"
-    },
-    {
-      "title": "Förnuft, finess och förvandling",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-09-06T23:59:59+02:00",
-      "venue": "Katrinetorp landeri En utställning om 1700-talets Sverige. 1700‑talet var en brytningstid i Sveriges historia – ett sekel präglat av förändring, nya idéer och omprövade livsmönster.",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Förnuft, finess och förvandling Datum 28 augusti – 6 september Kategori Utställning Plats Katrinetorp landeri En utställning om 1700-talets Sverige. 1700‑talet var en brytningstid i Sveriges historia – ett sekel präglat av förändring, nya idéer och omprövade livsmönster.",
-      "source_name": "Malmö stad",
-      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.5dd12b0619c51d1d050e402"
-    },
-    {
-      "title": "Guidad visning",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-12-27T23:59:59+01:00",
-      "venue": "Moderna Museet Malmö Välkommen att möta konsten under ledning av våra engagerade konstpedagoger. Visningarna sker på svenska, om ej annat anges. Utvalda söndagar ges visningar på engelska.",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Guidad visning Datum 28 augusti – 27 december Kategori Utställning, Visning Plats Moderna Museet Malmö Välkommen att möta konsten under ledning av våra engagerade konstpedagoger. Visningarna sker på svenska, om ej annat anges. Utvalda söndagar ges visningar på engelska.",
-      "source_name": "Malmö stad",
-      "event_url": "https://www.modernamuseet.se/sv/malmo/kalender/"
-    },
-    {
-      "title": "Historisk visning av ångisbrytaren Bore",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-09-27T23:59:59+02:00",
-      "venue": "Skeppsbrokajen Följ med på en guidad visning av s/s Bore – en ångdriven isbrytare från 1894!",
-      "address": null,
-      "category": "VISNING",
-      "price": null,
-      "description": "Historisk visning av ångisbrytaren Bore Datum 28 augusti – 27 september Kategori Guidade turer och visningar Plats Skeppsbrokajen Följ med på en guidad visning av s/s Bore – en ångdriven isbrytare från 1894!",
-      "source_name": "Malmö stad",
-      "event_url": "https://www.kulturcentralen.nu/evenemang/historisk-visning-av-angisbrytaren-bore"
-    },
-    {
-      "title": "Irländsk Afton med Dún Aengus",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Slagthuset",
-      "address": "Jörgen Kocksgatan 7A, Malmö",
-      "category": "ÖVRIGT",
-      "price": "FRI ENTRÉ",
-      "description": "Fri entré Irländsk Afton med Dún Aengus 28 aug 2026 Läs mer",
-      "source_name": "Slagthuset",
-      "event_url": "https://slagthuset.se/events/irlandsk-afton-28-aug-2026"
-    },
-    {
-      "title": "Irländsk Afton med Dún Aengus - Fri entré",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Slagthuset",
-      "address": null,
-      "category": "MUSIK",
-      "price": "FRI ENTRÉ",
-      "description": "Irländsk Afton med Dún Aengus - Fri entré Slagthuset 2026‑08‑28 Musik & Show Läs mer",
-      "source_name": "Visit Malmö",
-      "event_url": "https://slagthuset.se/events/irlandsk-afton-28-aug-2026"
-    },
-    {
-      "title": "Konst & Känsla",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-12-17T23:59:59+01:00",
-      "venue": "Moderna Museet Malmö Konst & Känsla är en guidad upplevelse där vi i en liten grupp reflekterar över konst och de känslor som väcks i mötet med konsten. Fokus på ett konstverk, vid varje tillfälle väljer vi ett nytt.",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Konst & Känsla Datum 28 augusti – 17 december Kategori Utställning, Visning, Samtal Plats Moderna Museet Malmö Konst & Känsla är en guidad upplevelse där vi i en liten grupp reflekterar över konst och de känslor som väcks i mötet med konsten. Fokus på ett konstverk, vid varje tillfälle väljer vi ett nytt.",
-      "source_name": "Malmö stad",
-      "event_url": "https://www.modernamuseet.se/sv/malmo/program/konst-kansla/"
-    },
-    {
-      "title": "Konst för barn och vuxna",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-08-30T23:59:59+02:00",
-      "venue": "Svenska Konstgalleriet",
-      "address": null,
-      "category": "DESIGN",
-      "price": null,
-      "description": "Konst för barn och vuxna Datum 28 augusti – 30 augusti Kategori Konst och design, Utställning Plats Svenska Konstgalleriet Målgrupp Barn och familj Konst för barn och vuxna med bland annat följande konstnärer: Strömsnäs, Tina Torner, Jullien, Oldengaarden, Tinbäck, Lindström, Michelly, Ardy, Nidej, Dahl, Corneille.",
-      "source_name": "Malmö stad",
-      "event_url": "https://www.sv-konstgalleriet.se"
-    },
-    {
-      "title": "Live: Svärmorsdröm",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Grand Malmö",
-      "address": null,
-      "category": "MUSIK",
-      "price": null,
-      "description": "Svärmorsdröm är en pop/hiphop-duo från Ystad. Vänta er en energifylld show med en modern bandsättning, duon kommer även ha med flera gästartister som de samarbetat med. Ta med alla ni känner och ha en underbar kväll med oss i Svärmorsdröm. År 2026 inleder de ett nytt kapitel med albumet Gentleman , där de rör sig mot ett tyngre, mer rap-influerat sound med hårdare beats och samplingar medan de fortfarande håller kvar popgrunden i musiken.",
-      "source_name": "Grand Malmö",
-      "event_url": "https://grandmalmo.se/calendar/svrmorsdrm"
-    },
-    {
-      "title": "Makt och prakt på Malmöhus",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-09-06T23:59:59+02:00",
-      "venue": "Malmö museum Ny utställning om Malmöhus slott under dess glansdagar – en tid präglad av renässansens prakt, där vardag och fest vid hovet väcks till liv genom talande porträtt, dukade bord och levande berättelser.",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Makt och prakt på Malmöhus Datum 28 augusti – 6 september Kategori Utställning Plats Malmö museum Ny utställning om Malmöhus slott under dess glansdagar – en tid präglad av renässansens prakt, där vardag och fest vid hovet väcks till liv genom talande porträtt, dukade bord och levande berättelser.",
-      "source_name": "Malmö stad",
-      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.5544db6919ed4ce6f5f202f"
-    },
-    {
-      "title": "Malmö - först, bäst och vackrast",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-08-28T23:59:59+02:00",
-      "venue": "Malmö museum Malmö museums nya stora stadshistoriska utställning tar dig med på en resa genom 150 år av malmöitisk vardag, kamp, kris och kreativitet – från industrialisering till kunskapstad.",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Malmö - först, bäst och vackrast Datum 28 augusti – 31 januari Kategori Utställning Plats Malmö museum Malmö museums nya stora stadshistoriska utställning tar dig med på en resa genom 150 år av malmöitisk vardag, kamp, kris och kreativitet – från industrialisering till kunskapstad.",
-      "source_name": "Malmö stad",
-      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.dd8076019c51cb8e67179f"
-    },
-    {
-      "title": "Malmö By Foot",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-09-06T23:59:59+02:00",
-      "venue": "S:t Petri kyrka Ett enkelt och underhållande sätt att få veta mer om viktiga händelser, personer, byggnader samt få en inblick i hur det var att leva i Malmö förr.",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": "Malmö By Foot Datum 28 augusti – 6 september Kategori Guidade turer och visningar, Film och föreläsning Plats S:t Petri kyrka Ett enkelt och underhållande sätt att få veta mer om viktiga händelser, personer, byggnader samt få en inblick i hur det var att leva i Malmö förr.",
-      "source_name": "Malmö stad",
-      "event_url": "https://www.kulturcentralen.nu/evenemang/historisk-vandring-malmo-by-foot"
-    },
-    {
-      "title": "Museis – Stor konst för de små",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-08-28T23:59:59+02:00",
-      "venue": "Moderna Museet Malmö",
-      "address": null,
-      "category": "ÖVRIGT",
-      "price": null,
-      "description": "Museis – Stor konst för de små Datum 28 augusti – 15 december Kategori Kreativt skapande Plats Moderna Museet Malmö Målgrupp Barn och familj Museis – en kreativ och lekfull plats för små barn och deras vuxna. Vi utforskar konsten tillsammans utifrån det lilla barnets behov, med materialet och leken i centrum.",
-      "source_name": "Malmö stad",
-      "event_url": "https://www.modernamuseet.se/sv/malmo/program/museis-stor-konst-for-de-sma/"
-    },
-    {
-      "title": "Nattklubb med Big City Diva och Viktor Flarkell",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-08-29T23:59:59+02:00",
-      "venue": "Grand Malmö",
-      "address": null,
-      "category": "MUSIK",
-      "price": null,
-      "description": "Gudrun Hauksdottir aka Big City Diva och Viktor Flarkell är två välkända ansikten från både dansgolv och dj-bås. Båda kända för att kunna välta vilket dansgolv som helst. Kvällen till ära slår de armarna i krok för första - men inte sista - gången för att bjuda på en oemotståndlig mix av disco, pop, hiphop, house och bangers. Det enda sättet att fira första maj på.",
-      "source_name": "Grand Malmö",
-      "event_url": "https://grandmalmo.se/calendar/big-city-diva-och-viktor-flarkell"
-    },
-    {
-      "title": "Slutseminarium – Emma Rindeskog",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Malmö universitet",
-      "address": null,
-      "category": "FÖRELÄSNING",
-      "price": null,
-      "description": "Seminarium 28 augusti",
-      "source_name": "Malmö universitet",
-      "event_url": "https://mau.se/kalender/slutseminarium---emma-rindeskog/"
-    },
-    {
-      "title": "Spikning – Hilda Gustafsson",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Malmö universitet",
-      "address": null,
-      "category": "ÖVRIGT",
-      "price": null,
-      "description": "Event 28 augusti",
-      "source_name": "Malmö universitet",
-      "event_url": "https://mau.se/kalender/spikning--hilda-gustafsson/"
-    },
-    {
-      "title": "Youmna Chlala: This Feeling, Oceanic",
-      "start_datetime": "2026-08-28T00:00:00+02:00",
-      "end_datetime": "2026-09-04T23:59:59+02:00",
-      "venue": "Konstmuseet i Kungsparken I sommar kan du ta del av en ljudinstallation i en glänta i Kungsparken. Youmna Chlalas verk This Feeling, Oceanic är möjligt att uppleva dygnet runt - även under de ljusa sommarnätterna.",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Youmna Chlala: This Feeling, Oceanic Datum 28 augusti – 4 september Kategori Utställning Plats Konstmuseet i Kungsparken I sommar kan du ta del av en ljudinstallation i en glänta i Kungsparken. Youmna Chlalas verk This Feeling, Oceanic är möjligt att uppleva dygnet runt - även under de ljusa sommarnätterna.",
-      "source_name": "Malmö stad",
-      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.e8e1c8e19e20790e13107c4"
-    },
-    {
-      "title": "Arco",
-      "start_datetime": "2026-08-29T12:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": null,
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260829/1200/Salongens3"
-    },
-    {
-      "title": "Halaqa-dagen på Malmö Konsthall",
-      "start_datetime": "2026-08-29T12:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Malmö Konsthall",
-      "address": null,
-      "category": "MUSIK",
-      "price": null,
-      "description": "Malmö Konsthall bjuder tillsammans med lokala föreningar och ABF Malmö in till Halaqa-dagen – en kostnadsfri heldag med minibasar, berättande, musik, workshops och visningar.",
-      "source_name": "Malmö Konsthall",
-      "event_url": "https://malmokonsthall.se/evenemangs/halaqa-dagen-aug-29/"
-    },
-    {
-      "title": "Mullvadens nya äventyr",
-      "start_datetime": "2026-08-29T12:15:00+02:00",
-      "end_datetime": null,
-      "venue": "Panora",
-      "address": null,
-      "category": "FILM",
-      "price": null,
-      "description": null,
-      "source_name": "Panora",
-      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260829/1215/Salongens2"
-    },
     {
       "title": "Alfons leker Einstein",
       "start_datetime": "2026-08-29T12:30:00+02:00",
@@ -868,6 +328,18 @@
       "event_url": "https://moriskapaviljongen.se/program/house-of-hiphop-dj-rida-29aug2026/"
     },
     {
+      "title": "Babymåleri",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-12-11T23:59:59+01:00",
+      "venue": "Moderna Museet Malmö",
+      "address": null,
+      "category": "WORKSHOP",
+      "price": null,
+      "description": "Babymåleri Datum 29 augusti – 11 december Kategori Workshop, Kreativt skapande Plats Moderna Museet Malmö Målgrupp Barn och familj Kom och måla med din bebis i Verkstan! Nu ger vi chansen för de allra minsta att bekanta sig med konstnärliga uttryck och måla med hela kroppen. Köp biljett på vår webb. 120 kr/baby.",
+      "source_name": "Malmö stad",
+      "event_url": "https://www.modernamuseet.se/sv/malmo/program/babymaleri/"
+    },
+    {
       "title": "Backåkra Poesi & Prosa 2026",
       "start_datetime": "2026-08-29T00:00:00+02:00",
       "end_datetime": null,
@@ -878,6 +350,42 @@
       "description": null,
       "source_name": "Kulturcentralen",
       "event_url": "https://kulturcentralen.nu/evenemang/backakra-poesi-prosa-2026"
+    },
+    {
+      "title": "Barnvagnsvisning",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-12-09T23:59:59+01:00",
+      "venue": "Moderna Museet Malmö",
+      "address": null,
+      "category": "VISNING",
+      "price": null,
+      "description": "Barnvagnsvisning Datum 29 augusti – 9 december Kategori Visning Plats Moderna Museet Malmö Målgrupp Barn och familj Även små bebisar kan titta på konst! Barnvagnsvisningarna på Moderna Museet Malmö sker i lugnt tempo där bebisarna bestämmer takten. Boka din biljett på vår webb.",
+      "source_name": "Malmö stad",
+      "event_url": "https://www.modernamuseet.se/sv/malmo/program/barnvagnsvisning/"
+    },
+    {
+      "title": "Bouchra Khalili – How to Call a Ghost",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-08-29T23:59:59+02:00",
+      "venue": "Malmö Konsthall I sommar visar Malmö Konsthall ”How to Call a Ghost” – en utställning av den fransk-marockanska konstnären Bouchra Khalili.",
+      "address": null,
+      "category": "DESIGN",
+      "price": null,
+      "description": "Bouchra Khalili – How to Call a Ghost Datum 29 augusti – 13 september Kategori Utställning, Vernissage, Konst och design Plats Malmö Konsthall I sommar visar Malmö Konsthall ”How to Call a Ghost” – en utställning av den fransk-marockanska konstnären Bouchra Khalili.",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.7f765e1719e2074a3d61c3c"
+    },
+    {
+      "title": "Buoys",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-08-30T23:59:59+02:00",
+      "venue": "Södra Varvsbassängen Upplev Buoys, en installation inspirerad av havet och den maritima miljön. Verket är ett examensprojekt av Erik Helander, student i Industridesign.",
+      "address": null,
+      "category": "ARKITEKTUR",
+      "price": null,
+      "description": "Buoys Datum 29 augusti – 30 augusti Kategori Arkitektur, Visning Plats Södra Varvsbassängen Upplev Buoys, en installation inspirerad av havet och den maritima miljön. Verket är ett examensprojekt av Erik Helander, student i Industridesign.",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.7f765e1719e2074a3d61679"
     },
     {
       "title": "Deborah Turbeville och modefotografiets säregna logik",
@@ -904,6 +412,78 @@
       "event_url": "https://kulturcentralen.nu/evenemang/det-var-en-gang-en-massa-vasen-i-varlden"
     },
     {
+      "title": "Ett makalöst rymdäventyr 3D",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-10-25T23:59:59+01:00",
+      "venue": "Malmö museum",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": "Ett makalöst rymdäventyr 3D Datum 29 augusti – 25 oktober Kategori Film Plats Malmö museum Målgrupp Barn och familj Rymdfilm på 360-gradersduk. Följ med cirkusdirektören ”Den store Schiaparelli” på en hisnande resa genom solsystemet. 25 min lång.",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.7f765e1719e2074a3d6ee4"
+    },
+    {
+      "title": "Fotoutställning Malmö Seriefest",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-09-03T23:59:59+02:00",
+      "venue": "Folkets Park Nyfiken på vilka serietecknare som kommer närvara på årets Malmö Seriefest?",
+      "address": null,
+      "category": "KONST",
+      "price": null,
+      "description": "Fotoutställning Malmö Seriefest Datum 29 augusti – 3 september Kategori Utställning Plats Folkets Park Nyfiken på vilka serietecknare som kommer närvara på årets Malmö Seriefest?",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.5544db6919ed4ce6f5f4c3c"
+    },
+    {
+      "title": "Guidad visning",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-12-27T23:59:59+01:00",
+      "venue": "Moderna Museet Malmö Välkommen att möta konsten under ledning av våra engagerade konstpedagoger. Visningarna sker på svenska, om ej annat anges. Utvalda söndagar ges visningar på engelska.",
+      "address": null,
+      "category": "KONST",
+      "price": null,
+      "description": "Guidad visning Datum 29 augusti – 27 december Kategori Utställning, Visning Plats Moderna Museet Malmö Välkommen att möta konsten under ledning av våra engagerade konstpedagoger. Visningarna sker på svenska, om ej annat anges. Utvalda söndagar ges visningar på engelska.",
+      "source_name": "Malmö stad",
+      "event_url": "https://www.modernamuseet.se/sv/malmo/kalender/"
+    },
+    {
+      "title": "Historisk visning av ångisbrytaren Bore",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-09-27T23:59:59+02:00",
+      "venue": "Skeppsbrokajen Följ med på en guidad visning av s/s Bore – en ångdriven isbrytare från 1894!",
+      "address": null,
+      "category": "VISNING",
+      "price": null,
+      "description": "Historisk visning av ångisbrytaren Bore Datum 29 augusti – 27 september Kategori Guidade turer och visningar Plats Skeppsbrokajen Följ med på en guidad visning av s/s Bore – en ångdriven isbrytare från 1894!",
+      "source_name": "Malmö stad",
+      "event_url": "https://www.kulturcentralen.nu/evenemang/historisk-visning-av-angisbrytaren-bore"
+    },
+    {
+      "title": "Ikoner - en utställning om att få finnas",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-08-29T23:59:59+02:00",
+      "venue": "Stenladan i Bokskogen",
+      "address": null,
+      "category": "KONST",
+      "price": null,
+      "description": "Ikoner - en utställning om att få finnas Datum 29 augusti – 27 september Kategori Utställning Plats Stenladan i Bokskogen Målgrupp Barn och familj Under helgerna mellan den 29 augusti och 27 september visas den uppmärksammade fotoutställningen Ikoner i Stenladan i Torup.",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.7f765e1719e2074a3d6182d"
+    },
+    {
+      "title": "José Gonzáles + Amanda Bergman",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Folkets Park José González är tillbaka med ny skiva och en konsertupplevelse med en känsla av rymd och intensitet som gör att det känns både storskaligt och nära. Den fantastiska Amanda Bergman öppnar kvällen!",
+      "address": null,
+      "category": "MUSIK",
+      "price": null,
+      "description": "José Gonzáles + Amanda Bergman Datum 29 augusti Tid 00:00 – 18:30 Kategori Konsert Plats Folkets Park José González är tillbaka med ny skiva och en konsertupplevelse med en känsla av rymd och intensitet som gör att det känns både storskaligt och nära. Den fantastiska Amanda Bergman öppnar kvällen!",
+      "source_name": "Malmö stad",
+      "event_url": "https://nortic.se/ticket/event/80650"
+    },
+    {
       "title": "Klubb: Just Like Heaven",
       "start_datetime": "2026-08-29T00:00:00+02:00",
       "end_datetime": "2026-08-30T23:59:59+02:00",
@@ -914,6 +494,18 @@
       "description": "Just Like Heaven är ett DJ duo som består av två dampiga punkare. När de spelar kan man förvänta sig bara de bästa goth, indie och post punk bangers!",
       "source_name": "Grand Malmö",
       "event_url": "https://grandmalmo.se/calendar/just-like-heaven-2026-p9wdt"
+    },
+    {
+      "title": "Konst & Känsla",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-12-17T23:59:59+01:00",
+      "venue": "Moderna Museet Malmö Konst & Känsla är en guidad upplevelse där vi i en liten grupp reflekterar över konst och de känslor som väcks i mötet med konsten. Fokus på ett konstverk, vid varje tillfälle väljer vi ett nytt.",
+      "address": null,
+      "category": "KONST",
+      "price": null,
+      "description": "Konst & Känsla Datum 29 augusti – 17 december Kategori Utställning, Visning, Samtal Plats Moderna Museet Malmö Konst & Känsla är en guidad upplevelse där vi i en liten grupp reflekterar över konst och de känslor som väcks i mötet med konsten. Fokus på ett konstverk, vid varje tillfälle väljer vi ett nytt.",
+      "source_name": "Malmö stad",
+      "event_url": "https://www.modernamuseet.se/sv/malmo/program/konst-kansla/"
     },
     {
       "title": "Live: Voiden",
@@ -928,6 +520,18 @@
       "event_url": "https://grandmalmo.se/calendar/voiden"
     },
     {
+      "title": "Makt och prakt på Malmöhus",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-09-06T23:59:59+02:00",
+      "venue": "Malmö museum Ny utställning om Malmöhus slott under dess glansdagar – en tid präglad av renässansens prakt, där vardag och fest vid hovet väcks till liv genom talande porträtt, dukade bord och levande berättelser.",
+      "address": null,
+      "category": "KONST",
+      "price": null,
+      "description": "Makt och prakt på Malmöhus Datum 29 augusti – 6 september Kategori Utställning Plats Malmö museum Ny utställning om Malmöhus slott under dess glansdagar – en tid präglad av renässansens prakt, där vardag och fest vid hovet väcks till liv genom talande porträtt, dukade bord och levande berättelser.",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.5544db6919ed4ce6f5f202f"
+    },
+    {
       "title": "Malmö English Comedy Nights",
       "start_datetime": "2026-08-29T00:00:00+02:00",
       "end_datetime": null,
@@ -938,6 +542,18 @@
       "description": "Malmö English Comedy Nights Scandic Triangeln 2026‑08‑29 Humor Läs mer",
       "source_name": "Visit Malmö",
       "event_url": "https://billetto.se/en/e/malmo-english-comedy-nights-scandic-triangeln-upcoming-shows-biljetter-761959"
+    },
+    {
+      "title": "Malmö Seriefest",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-08-30T23:59:59+02:00",
+      "venue": "Folkets Park Välkommen till en dag fylld av serier och kreativitet - en festival där serietecknare, läsare, serie-entusiaster och nyfikna besökare möts!",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "Malmö Seriefest Datum 29 augusti – 30 augusti Kategori Fritid och hobby Plats Folkets Park Välkommen till en dag fylld av serier och kreativitet - en festival där serietecknare, läsare, serie-entusiaster och nyfikna besökare möts!",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.5544db6919ed4ce6f5f4250"
     },
     {
       "title": "Melody Club + Diskopunk",
@@ -952,6 +568,18 @@
       "event_url": "https://slagthuset.se/events/melody-club"
     },
     {
+      "title": "Museis – Stor konst för de små",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-08-29T23:59:59+02:00",
+      "venue": "Moderna Museet Malmö",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "Museis – Stor konst för de små Datum 29 augusti – 15 december Kategori Kreativt skapande Plats Moderna Museet Malmö Målgrupp Barn och familj Museis – en kreativ och lekfull plats för små barn och deras vuxna. Vi utforskar konsten tillsammans utifrån det lilla barnets behov, med materialet och leken i centrum.",
+      "source_name": "Malmö stad",
+      "event_url": "https://www.modernamuseet.se/sv/malmo/program/museis-stor-konst-for-de-sma/"
+    },
+    {
       "title": "Trädgårdskonsert med Anna Hertzman",
       "start_datetime": "2026-08-29T00:00:00+02:00",
       "end_datetime": null,
@@ -962,6 +590,18 @@
       "description": null,
       "source_name": "Kulturcentralen",
       "event_url": "https://kulturcentralen.nu/evenemang/tradgardskonsert-med-anna-hertzman"
+    },
+    {
+      "title": "Utställning: Glada mardrömmar",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-09-13T23:59:59+02:00",
+      "venue": "Folkets Park I Glada Mardrömmar tar Luna Gil oss in i en drömlikt skev värld där djurliknande figurer vandrar genom landskap av mystik, humor och frågor om tillhörighet.",
+      "address": null,
+      "category": "KONST",
+      "price": null,
+      "description": "Utställning: Glada mardrömmar Datum 29 augusti – 13 september Kategori Utställning Plats Folkets Park I Glada Mardrömmar tar Luna Gil oss in i en drömlikt skev värld där djurliknande figurer vandrar genom landskap av mystik, humor och frågor om tillhörighet.",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.e8e1c8e19e20790e1310510"
     },
     {
       "title": "Vandring Ven runt på Skåneleden",
@@ -976,16 +616,28 @@
       "event_url": "https://www.friluftsframjandet.se/lat-aventyret-borja/hitta-aventyr/vandring/vandring/vandring-ven-runt-pa-skaneleden/"
     },
     {
-      "title": "Ystad DeLuxe: Peter Boisen möter Kurt Wallander",
+      "title": "Youmna Chlala: This Feeling, Oceanic",
       "start_datetime": "2026-08-29T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Se originalsidan",
+      "end_datetime": "2026-09-04T23:59:59+02:00",
+      "venue": "Konstmuseet i Kungsparken I sommar kan du ta del av en ljudinstallation i en glänta i Kungsparken. Youmna Chlalas verk This Feeling, Oceanic är möjligt att uppleva dygnet runt - även under de ljusa sommarnätterna.",
+      "address": null,
+      "category": "KONST",
+      "price": null,
+      "description": "Youmna Chlala: This Feeling, Oceanic Datum 29 augusti – 4 september Kategori Utställning Plats Konstmuseet i Kungsparken I sommar kan du ta del av en ljudinstallation i en glänta i Kungsparken. Youmna Chlalas verk This Feeling, Oceanic är möjligt att uppleva dygnet runt - även under de ljusa sommarnätterna.",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.e8e1c8e19e20790e13107c4"
+    },
+    {
+      "title": "Åk gratis veteranbuss till Katrinetorp",
+      "start_datetime": "2026-08-29T00:00:00+02:00",
+      "end_datetime": "2026-08-29T23:59:59+02:00",
+      "venue": "Flera platser På helgerna under sommaren (utom under Malmöfestivalen) och under första helgen i september kan du åka gratis veteranbuss mellan Tekniska museet/Gustav Adolfs torg och Katrinetorp",
       "address": null,
       "category": "ÖVRIGT",
       "price": null,
-      "description": null,
-      "source_name": "Kulturcentralen",
-      "event_url": "https://kulturcentralen.nu/evenemang/ystaddeluxepeterboisonmterkurtwallander"
+      "description": "Åk gratis veteranbuss till Katrinetorp Datum 29 augusti – 6 september Kategori Natur och stad Plats Flera platser På helgerna under sommaren (utom under Malmöfestivalen) och under första helgen i september kan du åka gratis veteranbuss mellan Tekniska museet/Gustav Adolfs torg och Katrinetorp",
+      "source_name": "Malmö stad",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.437d186119ed4baa5963352"
     },
     {
       "title": "Minioner & Monster (Sv. tal)",
@@ -1864,6 +1516,18 @@
       "event_url": "https://biografspegeln.se/program/ghost-in-the-shell-2-innocence"
     },
     {
+      "title": "Läxhjälp med Röda korset",
+      "start_datetime": "2026-09-02T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Kulturhyllan",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "På onsdagar har du möjlighet att få hjälp med dina läxor. Då finns volontärer från Röda Korset på plats i Hylliebibliotekets tidningshörna.",
+      "source_name": "Kulturhyllan",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e5977271"
+    },
+    {
       "title": "Malmö universitet på Ystad Summit",
       "start_datetime": "2026-09-02T00:00:00+02:00",
       "end_datetime": null,
@@ -2248,6 +1912,30 @@
       "event_url": "https://www.skanesdansteater.se/sound-wire"
     },
     {
+      "title": "Språkhörna med Röda korset",
+      "start_datetime": "2026-09-03T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Kulturhyllan",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "På torsdagar kan du träna på din svenska på tillsammans med volontärer från Röda korset. Vi pratar, läser och lyssnar på varandra under avslappnade former.",
+      "source_name": "Kulturhyllan",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e5977269"
+    },
+    {
+      "title": "Uppsök Ung Malmö drop in",
+      "start_datetime": "2026-09-03T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Kulturhyllan",
+      "address": null,
+      "category": "SAMTAL",
+      "price": null,
+      "description": "Saknar du arbete eller studier? Uppsök Ung Malmö vägleder dig som är folkbokförd i Malmö och är 18–29 år.",
+      "source_name": "Kulturhyllan",
+      "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e597727a"
+    },
+    {
       "title": "Min far och Victor Hugo",
       "start_datetime": "2026-09-04T14:00:00+02:00",
       "end_datetime": null,
@@ -2258,6 +1946,42 @@
       "description": "Efter ett manus av Sophie Fillières som skrev Guldplamsvinnaren Fritt fall . Skådespelaren Robert Zucchini (Fabrice Luchini) är en sorgsen man, förutom när han står på scen och gestaltar Victor Hugo. Varje kväll fyller han sin teatersalong till sista plats och förmedlar sin beundran för sin litterära hjälte. Tills den dag då hans dotter dyker upp på teatern. Han har inte hållit kontakt med henne och inte sett henne växa upp. Nu förstår han att det kanske är bättre att älska och än att beundra?",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/min-far-och-victor-hugo"
+    },
+    {
+      "title": "Primavera",
+      "start_datetime": "2026-09-04T14:30:00+02:00",
+      "end_datetime": null,
+      "venue": "Bar Deco",
+      "address": null,
+      "category": "MUSIK",
+      "price": null,
+      "description": "Historien om barnhemmet vars orkester trollband Europa. Cecilia är 20 år och har vuxit upp på Ospedale della Pietà, ett barnhem för flickor där de mest begåvade får ägna sig åt musik. Konsten har öppnat hennes sinne, men inte barnhemmets portar. Bara där får hon uppträda, iförd mask och bakom galler, inför Venedigs förmögna adel. Så en dag anländer en ny violinlärare, och med honom tar hennes liv en oväntad vändning. Hans namn är Antonio Vivaldi. Primavera berättar historien om ett avgörande möte mellan två människor. Den ena är en ung och begåvad violinist, instängd på ett barnhem där hennes liv styrs av andra. Den andra är en mästare som drivs av okuvlig skaparlust men försvagas av sitt ständiga behov av bekräftelse. Vad händer när deras vägar korsas?",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/primavera"
+    },
+    {
+      "title": "De levande döda i Rojava",
+      "start_datetime": "2026-09-04T15:45:00+02:00",
+      "end_datetime": null,
+      "venue": "Panora",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": null,
+      "source_name": "Panora",
+      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260904/1545/Salongens2"
+    },
+    {
+      "title": "Carola!",
+      "start_datetime": "2026-09-04T16:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Camera",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": "Carola! förhandsvisas på Spegeln den 19 augusti. Tack till TriArt. Med tillgång till ett unikt material ger filmen Carola! en inblick i människan Carola Häggkvists liv. Hon är artisten som älskats av publiken i decennier och som fascinerade Ingmar Bergman i så hög grad att han såg hennes bröllop på \"repeat\". Och hon är personen som sedan 16 års ålder blivit styrd av andra, men som vid 60 tagit kontroll över sitt eget liv. Hon är Carola och hon slutar aldrig att fascinera.",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/carola"
     },
     {
       "title": "Spa Weekend",
@@ -2284,6 +2008,18 @@
       "event_url": "https://www.malmoarena.com/evenemang/redhawks-cup_sv?hsLang=sv"
     },
     {
+      "title": "För döva öron",
+      "start_datetime": "2026-09-04T18:15:00+02:00",
+      "end_datetime": null,
+      "venue": "Panora",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": null,
+      "source_name": "Panora",
+      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260904/1815/Salongens3"
+    },
+    {
       "title": "The Shining",
       "start_datetime": "2026-09-04T19:00:00+02:00",
       "end_datetime": null,
@@ -2302,10 +2038,22 @@
       "venue": "Malmö Opera",
       "address": null,
       "category": "TEATER",
-      "price": null,
+      "price": "SLUTSÅLT",
       "description": null,
       "source_name": "Malmö Opera",
       "event_url": "https://www.malmoopera.se/forestallningar/shining-opera-upp-till-30"
+    },
+    {
+      "title": "Orphan",
+      "start_datetime": "2026-09-04T19:30:00+02:00",
+      "end_datetime": null,
+      "venue": "Panora",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": null,
+      "source_name": "Panora",
+      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260904/1930/Salongens2"
     },
     {
       "title": "The Odyssey",
@@ -2321,15 +2069,27 @@
     },
     {
       "title": "The Rivals of Amziah King",
-      "start_datetime": "2026-09-04T20:30:00+02:00",
+      "start_datetime": "2026-09-04T20:00:00+02:00",
       "end_datetime": null,
-      "venue": "Camera",
+      "venue": "Panora",
       "address": null,
       "category": "FILM",
       "price": null,
-      "description": "Djupt inne i Oklahomas skogsmarker leder den karismatiske och musikaliskt begåvade Amziah King ett bluegrassband fullt av färgstarka original samtidigt som han driver traktens främsta honungsverksamhet. När hans tidigare fosterdotter oväntat återvänder ser Amziah en chans att återknyta banden och bygga upp ett familjeföretag tillsammans. Men honungsbranschen är skoningslös, och när rivalerna börjar hota det han har byggt upp riskerar allt att gå förlorat.",
-      "source_name": "Biograf Spegeln",
-      "event_url": "https://biografspegeln.se/program/the-rivals-of-amziah-king"
+      "description": null,
+      "source_name": "Panora",
+      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260904/2000/Salongens1"
+    },
+    {
+      "title": "Främlingen",
+      "start_datetime": "2026-09-04T20:15:00+02:00",
+      "end_datetime": null,
+      "venue": "Panora",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": null,
+      "source_name": "Panora",
+      "event_url": "https://bio.se/biografer/panora-folkets-bio-malmo/20260904/2015/Salongens3"
     },
     {
       "title": "Club Honey på Palladiums Marmorfoajé",
@@ -2608,6 +2368,18 @@
       "event_url": "https://biografspegeln.se/program/the-end-of-oak-street"
     },
     {
+      "title": "NOSTALGIBAREN – VARJE LÖRDAG",
+      "start_datetime": "2026-09-05T22:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Palladium Malmö",
+      "address": "Södergatan 15, Malmö",
+      "category": "ÖVRIGT",
+      "price": "100 KR",
+      "description": null,
+      "source_name": "Palladium Malmö",
+      "event_url": "https://www.palladium.nu/evenemang/nostalgibaren-varje-lordag-2"
+    },
+    {
       "title": "Allsång",
       "start_datetime": "2026-09-05T00:00:00+02:00",
       "end_datetime": null,
@@ -2716,6 +2488,18 @@
       "event_url": "https://biografspegeln.se/program/andre-rieus-2026-summer-concert-viva-maastricht"
     },
     {
+      "title": "Primavera",
+      "start_datetime": "2026-09-06T13:30:00+02:00",
+      "end_datetime": null,
+      "venue": "Camera",
+      "address": null,
+      "category": "MUSIK",
+      "price": null,
+      "description": "Historien om barnhemmet vars orkester trollband Europa. Cecilia är 20 år och har vuxit upp på Ospedale della Pietà, ett barnhem för flickor där de mest begåvade får ägna sig åt musik. Konsten har öppnat hennes sinne, men inte barnhemmets portar. Bara där får hon uppträda, iförd mask och bakom galler, inför Venedigs förmögna adel. Så en dag anländer en ny violinlärare, och med honom tar hennes liv en oväntad vändning. Hans namn är Antonio Vivaldi. Primavera berättar historien om ett avgörande möte mellan två människor. Den ena är en ung och begåvad violinist, instängd på ett barnhem där hennes liv styrs av andra. Den andra är en mästare som drivs av okuvlig skaparlust men försvagas av sitt ständiga behov av bekräftelse. Vad händer när deras vägar korsas?",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/primavera"
+    },
+    {
       "title": "Global Duduk Academy Opening Event",
       "start_datetime": "2026-09-06T15:00:00+02:00",
       "end_datetime": null,
@@ -2774,6 +2558,18 @@
       "description": "Malmödramat Blir du ledsen om jag dör? är baserad på Nicolas Lunabbas hyllade självbiografi med samma namn. Nic, 29 år, arbetar som fritidsledare och baskettränare för \"Vårt Malmö\", en organisation som riktar sig mot utsatta barn och unga. Under åren som gått har flera av ungdomarna han kommit i kontakt med dödats i gängkonflikter. En dag träffar han Elijah, en charmig och bråkig kille som likt Nic själv har en självklar talang för basket. Elijah kryper under huden på Nic och han klarar inte av att passivt se ännu ett livsöde gå förlorat och bestämmer sig för att ta saken i egna händer. Kan han rädda en av dessa ungdomar har han gjort skillnad. För att rädda Elijah undan kriminaliteten så låter Nic honom flytta in hos sig. Det blir ett beslut som kommer att förändra båda deras liv. Det här är berättelsen om två ensamma människors oväntade möte och en skildring av vad som krävs för att rädda en annan människa.",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/blir-du-ledsen-om-jag-dor"
+    },
+    {
+      "title": "Carola!",
+      "start_datetime": "2026-09-06T18:15:00+02:00",
+      "end_datetime": null,
+      "venue": "Camera",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": "Carola! förhandsvisas på Spegeln den 19 augusti. Tack till TriArt. Med tillgång till ett unikt material ger filmen Carola! en inblick i människan Carola Häggkvists liv. Hon är artisten som älskats av publiken i decennier och som fascinerade Ingmar Bergman i så hög grad att han såg hennes bröllop på \"repeat\". Och hon är personen som sedan 16 års ålder blivit styrd av andra, men som vid 60 tagit kontroll över sitt eget liv. Hon är Carola och hon slutar aldrig att fascinera.",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/carola"
     },
     {
       "title": "The Odyssey",
@@ -2942,6 +2738,18 @@
       "description": null,
       "source_name": "Malmö Stadsteater",
       "event_url": "https://www.malmostadsteater.se/teaterklubben"
+    },
+    {
+      "title": "Kvällskurser i cirkus, dans och teater",
+      "start_datetime": "2026-09-08T16:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Rosengård",
+      "address": null,
+      "category": "TEATER",
+      "price": "",
+      "description": null,
+      "source_name": "Malmö Stadsteater",
+      "event_url": "https://www.malmostadsteater.se/kvallskurser-i-cirkus-dans-och-teater"
     },
     {
       "title": "Blir du ledsen om jag dör?",
@@ -3172,6 +2980,18 @@
       "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e59771d6"
     },
     {
+      "title": "Blir du ledsen om jag dör?",
+      "start_datetime": "2026-09-10T17:15:00+02:00",
+      "end_datetime": null,
+      "venue": "Camera",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": "Malmödramat Blir du ledsen om jag dör? är baserad på Nicolas Lunabbas hyllade självbiografi med samma namn. Nic, 29 år, arbetar som fritidsledare och baskettränare för \"Vårt Malmö\", en organisation som riktar sig mot utsatta barn och unga. Under åren som gått har flera av ungdomarna han kommit i kontakt med dödats i gängkonflikter. En dag träffar han Elijah, en charmig och bråkig kille som likt Nic själv har en självklar talang för basket. Elijah kryper under huden på Nic och han klarar inte av att passivt se ännu ett livsöde gå förlorat och bestämmer sig för att ta saken i egna händer. Kan han rädda en av dessa ungdomar har han gjort skillnad. För att rädda Elijah undan kriminaliteten så låter Nic honom flytta in hos sig. Det blir ett beslut som kommer att förändra båda deras liv. Det här är berättelsen om två ensamma människors oväntade möte och en skildring av vad som krävs för att rädda en annan människa.",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/blir-du-ledsen-om-jag-dor"
+    },
+    {
       "title": "Tony",
       "start_datetime": "2026-09-10T18:00:00+02:00",
       "end_datetime": null,
@@ -3182,6 +3002,18 @@
       "description": "Matt Johnsons hyllade spelfilm om en ung Anthony Bourdain förhandsvisas på Spegeln den 10 september. Tack till Nordisk Film. En 19-årig Anthony Bourdain reser till Provincetown och snubblar in i restaurangkökets kaotiska värld. Det resulterar i en sommar som kommer att forma resten av hans liv. Tony är ett biografiskt drama regisserat av Matt Johnson och skildrar en avgörande period i Bourdains liv, innan han blev den världsberömde kocken, författaren och TV-profilen.",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/tony"
+    },
+    {
+      "title": "I list & lust",
+      "start_datetime": "2026-09-10T19:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Malmö Opera",
+      "address": null,
+      "category": "TEATER",
+      "price": null,
+      "description": null,
+      "source_name": "Malmö Opera",
+      "event_url": "https://www.malmoopera.se/forestallningar/i-list-lust"
     },
     {
       "title": "Medborgare Nûjen",
@@ -3302,6 +3134,18 @@
       "description": "En president. En benådning. Ett sista beslut. En italiensk president, nyligen änkling, ställs inför avgörande moraliska dilemman kring dödshjälp och benådning av dömda mördare. Samtidigt skakas hans privatliv av avslöjanden om hans avlidna hustrus otrohet - något som kastar nytt ljus över deras liv tillsammans under hans sista tid vid makten. Toni Servillo briljerar i en minnesvärd, tragikomisk roll som Italiens president i Paolo Sorrentinos publikfriande öppningsfilm i Venedig, La Grazia - en ofta rolig, stundtals gripande berättelse om makt, ensamhet och tvivel, och om en man som kämpar för att fatta rätt beslut när det verkligen gäller.",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/la-grazia"
+    },
+    {
+      "title": "Blir du ledsen om jag dör?",
+      "start_datetime": "2026-09-11T17:45:00+02:00",
+      "end_datetime": null,
+      "venue": "Camera",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": "Malmödramat Blir du ledsen om jag dör? är baserad på Nicolas Lunabbas hyllade självbiografi med samma namn. Nic, 29 år, arbetar som fritidsledare och baskettränare för \"Vårt Malmö\", en organisation som riktar sig mot utsatta barn och unga. Under åren som gått har flera av ungdomarna han kommit i kontakt med dödats i gängkonflikter. En dag träffar han Elijah, en charmig och bråkig kille som likt Nic själv har en självklar talang för basket. Elijah kryper under huden på Nic och han klarar inte av att passivt se ännu ett livsöde gå förlorat och bestämmer sig för att ta saken i egna händer. Kan han rädda en av dessa ungdomar har han gjort skillnad. För att rädda Elijah undan kriminaliteten så låter Nic honom flytta in hos sig. Det blir ett beslut som kommer att förändra båda deras liv. Det här är berättelsen om två ensamma människors oväntade möte och en skildring av vad som krävs för att rädda en annan människa.",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/blir-du-ledsen-om-jag-dor"
     },
     {
       "title": "The BOWIE Tribute (DK) - En kärleksförklaring och hyllning till David Bowie | Palladium, Malmö",
@@ -3488,11 +3332,11 @@
       "start_datetime": "2026-09-11T00:00:00+02:00",
       "end_datetime": null,
       "venue": "Slagthuset",
-      "address": null,
-      "category": "MUSIK",
+      "address": "Jörgen Kocksgatan 7A, Malmö",
+      "category": "ÖVRIGT",
       "price": null,
-      "description": "The Jayhawks Slagthuset 2026‑09‑11 Musik & Show Läs mer",
-      "source_name": "Visit Malmö",
+      "description": "The Jayhawks 11 sep 2026 Boka biljett Läs mer",
+      "source_name": "Slagthuset",
       "event_url": "https://slagthuset.se/events/the-jayhawks"
     },
     {
@@ -3556,6 +3400,18 @@
       "event_url": "https://www.malmostadsteater.se/den-fula-ankungen"
     },
     {
+      "title": "I list & lust",
+      "start_datetime": "2026-09-12T16:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Malmö Opera",
+      "address": null,
+      "category": "TEATER",
+      "price": null,
+      "description": null,
+      "source_name": "Malmö Opera",
+      "event_url": "https://www.malmoopera.se/forestallningar/i-list-lust"
+    },
+    {
       "title": "Broder Daniel Forever",
       "start_datetime": "2026-09-12T19:00:00+02:00",
       "end_datetime": null,
@@ -3614,6 +3470,18 @@
       "description": "Oasis är tillbaka. Efter 16 år återförenas Liam och Noel Gallagher för den efterlängtade världsturnén Oasis Live '25. Med exklusiv tillgång till repetitioner, backstageområden och de utsålda konserterna följer dokumentären bandets hyllade återkomst och den globala eufori som omgärdade den. Med aldrig tidigare visat material och de första gemensamma intervjuerna med bröderna på över 25 år berättas historien om ett av världens mest inflytelserika rockband - och om fansen vars liv och minnen formats av deras musik. En storslagen dokumentär om återförening, gemenskap och musikens förmåga att föra människor samman.",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/oasis-dont-look-back-in-anger"
+    },
+    {
+      "title": "NOSTALGIBAREN – VARJE LÖRDAG",
+      "start_datetime": "2026-09-12T22:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Palladium Malmö",
+      "address": "Södergatan 15, Malmö",
+      "category": "ÖVRIGT",
+      "price": "100 KR",
+      "description": null,
+      "source_name": "Palladium Malmö",
+      "event_url": "https://www.palladium.nu/evenemang/nostalgibaren-varje-lordag"
     },
     {
       "title": "KARAOKEBAR: KAROLINA WOJCIK",
@@ -4324,6 +4192,18 @@
       "event_url": "https://biografspegeln.se/program/resident-evil"
     },
     {
+      "title": "NOSTALGIBAREN – VARJE LÖRDAG",
+      "start_datetime": "2026-09-19T22:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Palladium Malmö",
+      "address": "Södergatan 15, Malmö",
+      "category": "ÖVRIGT",
+      "price": "100 KR",
+      "description": null,
+      "source_name": "Palladium Malmö",
+      "event_url": "https://www.palladium.nu/evenemang/nostalgibaren-varje-lordag-4"
+    },
+    {
       "title": "KLUBB: ABSOLUTE 2000",
       "start_datetime": "2026-09-19T23:00:00+02:00",
       "end_datetime": null,
@@ -5020,18 +4900,6 @@
       "event_url": "https://kulturcentralen.nu/evenemang/vintersaga"
     },
     {
-      "title": "Tobbe Trollkarl - 30 års jubileumsshow!",
-      "start_datetime": "2026-09-26T11:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Palladium Malmö",
-      "address": "Södergatan 15, Malmö",
-      "category": "ÖVRIGT",
-      "price": "249 KR",
-      "description": null,
-      "source_name": "Palladium Malmö",
-      "event_url": "https://www.palladium.nu/evenemang/tobbe-trollkarl-30-ars-jubileumsshow"
-    },
-    {
       "title": "CatVideoFest 2026",
       "start_datetime": "2026-09-26T13:00:00+02:00",
       "end_datetime": null,
@@ -5342,18 +5210,6 @@
       "description": "Alexandra-Therese Keinings stjärnspäckade feelgood-pärla Resan till Piemonte förhandsvisas på Spegeln den 16 september. Tack till SF Studios. Fyra vänner åker tillsammans till Italien där Eva (Helena Bergström) ärvt en olivgård. Tanken är sälja gården, men väl där väcks frågan; vad har dom egentligen i Sverige att återvända till? Italien däremot har sol, god mat och charmiga bybor. Och är det inte nu man ska fånga dagen och se till att förverkliga alla sina drömmar.",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/resan-till-piemonte"
-    },
-    {
-      "title": "FRANK SINATRA - Livet och musiken",
-      "start_datetime": "2026-09-27T19:30:00+02:00",
-      "end_datetime": null,
-      "venue": "Palladium Malmö",
-      "address": "Södergatan 15, Malmö",
-      "category": "MUSIK",
-      "price": "265 KR",
-      "description": null,
-      "source_name": "Palladium Malmö",
-      "event_url": "https://www.palladium.nu/evenemang/frank-sinatra-livet-och-musiken"
     },
     {
       "title": "Home Free",
@@ -5776,6 +5632,18 @@
       "event_url": "https://www.malmostadsteater.se/sommarkvallar-pa-jorden"
     },
     {
+      "title": "Verity",
+      "start_datetime": "2026-10-02T20:45:00+02:00",
+      "end_datetime": null,
+      "venue": "Bar Deco",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": "Biljettsläpp onsdag den 9 september kl 08.00. Baserad på Colleen Hoovers bästsäljande roman är detta en psykologisk thriller som följer den hyllade författaren Verity Crawford och Lowen Ashleigh, en kämpande författare som flyttar till den avlägsna Crawford-egendomen för att spökskriva åt Verity. När Lowen upptäcker vad som verkar vara Veritys självbiografiska anteckningar, dras hon in i en mörk spiral av chockerande avslöjande om Veritys make Jeremy. Snart blir det allt svårare att skilja mellan fiktion och verklighet, manipulation och begär - och mellan en möjlighet och besatthet.",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/verity"
+    },
+    {
       "title": "Disputation – Tessa Bijelic",
       "start_datetime": "2026-10-02T00:00:00+02:00",
       "end_datetime": null,
@@ -5954,6 +5822,18 @@
       "description": null,
       "source_name": "Malmö Stadsteater",
       "event_url": "https://www.malmostadsteater.se/sommarkvallar-pa-jorden"
+    },
+    {
+      "title": "Verity",
+      "start_datetime": "2026-10-03T20:15:00+02:00",
+      "end_datetime": null,
+      "venue": "Bar Deco",
+      "address": null,
+      "category": "FILM",
+      "price": null,
+      "description": "Biljettsläpp onsdag den 9 september kl 08.00. Baserad på Colleen Hoovers bästsäljande roman är detta en psykologisk thriller som följer den hyllade författaren Verity Crawford och Lowen Ashleigh, en kämpande författare som flyttar till den avlägsna Crawford-egendomen för att spökskriva åt Verity. När Lowen upptäcker vad som verkar vara Veritys självbiografiska anteckningar, dras hon in i en mörk spiral av chockerande avslöjande om Veritys make Jeremy. Snart blir det allt svårare att skilja mellan fiktion och verklighet, manipulation och begär - och mellan en möjlighet och besatthet.",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/verity"
     },
     {
       "title": "Alice i Underlandet | Cirkusföreställning",
@@ -6316,6 +6196,18 @@
       "event_url": "https://kulturcentralen.nu/evenemang/lina-nyberg-9"
     },
     {
+      "title": "Queen Budapest",
+      "start_datetime": "2026-10-08T18:15:00+02:00",
+      "end_datetime": null,
+      "venue": "Bar Deco",
+      "address": null,
+      "category": "MUSIK",
+      "price": null,
+      "description": "Queen Budapest , den sista filmade livekonserten med Queen, har digitaliserats i knivskarp 4K-upplösning och fått en helt ny dynamisk ljudmix. Den 27 juli 1986 klev Queen upp på Népstadion i Budapest och levererade sin största stadionkonsert någonsin inför 80 000 extatiska fans. Spelningen gjordes under den legendariska turnén \"Magic Tour\", bandets allra sista turné med Freddie Mercury. Filmen bjuder på en rad av Queens absolut största hits, däribland Bohemian Rhapsody , Crazy Little Thing Called Love , I Want To Break Free och We Are The Champions . Eftersom det fortfarande återstod tre år innan Berlinmurens fall, blev detta den första västerländska rockkonserten som arrangerades på en stor arena bakom järnridån. Historien var så pass unik att de ungerska myndigheterna och landets filmindustri samlade sina absolut främsta filmfotografer och tekniker för att dokumentera hela händelsen för eftervärlden.",
+      "source_name": "Biograf Spegeln",
+      "event_url": "https://biografspegeln.se/program/queen-budapest"
+    },
+    {
       "title": "Tryckfrihetsförordningens historia – föredrag av Mats Elzén",
       "start_datetime": "2026-10-08T18:30:00+02:00",
       "end_datetime": null,
@@ -6326,18 +6218,6 @@
       "description": "Frihet som ideal - Om Sveriges och världens första tryckfrihetsförordning, offentlighetsprincipens födelse och kampen om det fria ordet från 1600-talet till idag.",
       "source_name": "Kulturhyllan",
       "event_url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Motesplatser/Kulturhyllan/Program-Kulturhyllan-Malmo/Objektsida-Kulturhyllan.html?id=5.4968b1201a03e2e59771f2"
-    },
-    {
-      "title": "Antti Paalanen",
-      "start_datetime": "2026-10-08T19:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Inkonst",
-      "address": null,
-      "category": "MUSIK",
-      "price": null,
-      "description": "Thursday 8 October 2026 • 7pm: Welcome to Antti Paalanen's world!\\ Prepare to encounter a force of nature. The musical shaman Antti Paalanen is a truly unique artist known for his distinctive blend of accordion, dance beats, and throat singing. His instrument—the diatonic accordion—is pushed to its limits in music that combines the pelimanni tradition (Finnish folk music) with techno and throat singing. The result is hypnotic, physical, and uncompromising. Like a rave in a Nordic forest. As a graduate of the Sibelius Academy, he is not only a master of the accordion but also a composer and a one-man band capable of lighting up an entire dance floor—with bass-heavy accordion, pulsating stompbox grooves, and wild, throat-roaring chants. The result is a wall of sound channeling folk music, heavy metal, and electronic dance music.\\ Antti Paalanen's fate as a wild-hearted accordionist was sealed by a happy accident: as a young boy, he walked into a music store in Alavus with the dream of an electric guitar but was instead enchanted by a beautiful, mysterious accordion. There was no turning back. Paalanen's musical concoction has developed naturally. As a child, he was equally drawn to local accordion courses and the hard tones of Kiss, W.A.S.P., and AC/DC blaring from MTV. He then delved into folk music at the Sibelius Academy. During his doctoral studies, he composed new music for the diatonic accordion.\\ Along the way, he also embraced throat singing techniques with Mongolian influences, which he channels in his deep, growling vocals. This unique recipe has so far resulted in four solo albums, most recently Rujo (2019), as well as many releases in various ensembles. Antti's long career reached a new milestone this year when he came in second place with the song Takatukka in Uuden Musiikin Kilpailu (Finland's national selection for the Eurovision Song Contest), and this spring he is releasing his new album. Come and join us in the bar and listen to music before the concert—the doors open at 7:00 PM! Note: Standing audience only! Arr: Musik i Syd and Mix Musik",
-      "source_name": "Inkonst",
-      "event_url": "https://inkonst.com/events/antti-paalanen"
     },
     {
       "title": "Gengångare",
@@ -6362,6 +6242,18 @@
       "description": "Eftersom Cinematekets vanliga salong, Alcazar, renoveras under hösten startar säsongen i salong Bar Deco. Säljer visningarna slut i förväg adderas en parallell visning i salong Camera. I november är Alcazar tillbaka som Cinematekets hem. Äventyrslängtande Jonny Roova lämnar hemmet i Tornedalen för att påbörja ett nytt liv på Rosengård i Malmö. Han skaffar nya vänner, ett arbete på läskfabrik och en ny tjej, men det är någonting som skaver. Format : DCP",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/cine-jonny-roova"
+    },
+    {
+      "title": "Antti Paalanen",
+      "start_datetime": "2026-10-08T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Se originalsidan",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": null,
+      "source_name": "Kulturcentralen",
+      "event_url": "https://kulturcentralen.nu/evenemang/anttipaalanen"
     },
     {
       "title": "Lee Harris | The Oneness Experience",
@@ -6496,16 +6388,16 @@
       "event_url": "https://www.malmostadsteater.se/sommarkvallar-pa-jorden"
     },
     {
-      "title": "Super Music Club #7: Vit Päls, I'm Kingfisher, Quiet Commotion",
-      "start_datetime": "2026-10-09T19:00:00+02:00",
+      "title": "Big in Japan 2026",
+      "start_datetime": "2026-10-09T00:00:00+02:00",
       "end_datetime": null,
-      "venue": "Inkonst",
+      "venue": "Malmö Live",
       "address": null,
-      "category": "TEATER",
+      "category": "MUSIK",
       "price": null,
-      "description": "Friday 9 October 2026 • 7pm: You’re invited to an intimate concert of unreleased songs performed by eight different artists. Two sets of new music are combined with the stories behind the songs, hands-on songwriting strategies and a Q&A - all with the aim of inspiring the audience. The line up contains a mix of established acts and up-and-coming musicians who play stripped-back versions of their songs in solo or duo-settings. VIT PÄLS This evening, Carl Johan Lundgren joins us for a stripped-back solo performance ahead of the long-awaited new album 'Riddare och trumpeter' that lands in November 2026. Expect a performance centered on the audience, framed by Lundgren's distinctive banter and rapport with the crowd. In the early 2010s, Vit Päls was a fixture of the Swedish indie scene. The band broke up in 2014, but interest in their music never faded — if anything, it reached cult status thanks to the narrative lyrics and distinctive style. Lundgren describes the new album as more direct, more upbeat, and at the same time the most melancholic Vit Päls album yet. Fans of Lundgren's world might also check out his 2026 novel debut, \"Mitt eget bull Hawaii,\" which critic Samuel Levander praised in DN for its distinctive style. I'M KINGFISHER Indie/folk artist with a love for ambient and drone, With over 700 shows in 20 countries and 9 solo albums, Thomas Jonsson has always been equally obscure and acclaimed. He won an Manifest Award 2021 for the quiet indie/country album The Past Has Begun, and made the song The Pain of Happiness for the motion picture Comedy Queen in 2022. This year he released the new album Give Up Together as well as making a cameo and providing songs for the new movie Biodlaren / The Quiet Beekeeper. Upon that, he's soon the subject of the short and very stripped music documentary Words Have Missed Me. QUIET COMMOTION Quiet Commotion is a bedroom and solo project from Malmö led by 18-year-old Daniel Katz, who already has four albums under his belt. The latest, \"Spring,\" was released this year on the Stockholm label Dream On. \"But for those of you who might have missed it: Imagine if Elliott Smith came back to life and dashed around Sweden to secretly stage an indie comeback. That's exactly what it sounds like. '90s revival, effortlessly cool, and provocatively good.\" - Slaktkyrkan Stockholm Funded by Region Skåne & Malmö Stad.",
-      "source_name": "Inkonst",
-      "event_url": "https://inkonst.com/events/super-music-club-7"
+      "description": null,
+      "source_name": "Malmö Live",
+      "event_url": "https://malmolive.se/program/big-in-japan-2026 "
     },
     {
       "title": "Disco Inferno",
@@ -6650,18 +6542,6 @@
       "description": null,
       "source_name": "Moriska Paviljongen",
       "event_url": "https://moriskapaviljongen.se/program/common-ground-jazzclub-okt2026/"
-    },
-    {
-      "title": "Grovskopa MORD Resurrection",
-      "start_datetime": "2026-10-10T23:55:00+02:00",
-      "end_datetime": null,
-      "venue": "Inkonst",
-      "address": null,
-      "category": "TEATER",
-      "price": null,
-      "description": "10—11 October 2026 • 4am: Grovskopa (MORD, Token, Sandwell District, Warm-Up Rec.)\\ Stanislav Tolkachev (MORD, Semantica, Token)\\ Rebecka Sekelius (DJ)\\ Adèle Tornberg (VJ)\\ Spåra Collective (dancers) The world has become meaner. Techno has become cleaner. Polished into content, flattened into lifestyle branding. Somewhere along the way people forgot that techno isn't supposed to comfort you. It's supposed to rearrange your nervous system. So Grovskopa returns. Before Rivet became Rivet, there was Grovskopa. A pressure valve. An outlet for anger. Industrial techno built to leave dents. Between 2001 and 2011, Grovskopa was a key figure of the industrial techno movement that grew out of Birmingham – a scene that redefined techno through pressure, repetition and function. Along the way came collaborations and long-standing relationships with artists such as Surgeon, Regis and Oscar Mulero. Then a motorcycle nearly killed him. Or vice versa. Recovery changed everything. Grovskopa was put to rest and Rivet emerged – less interested in blunt force, more drawn to groove, tension and storytelling. Now Grovskopa returns, not as a revival but as necessity. The return also marks a new chapter, with an EP landing on MORD this October. There was only one choice for this night's guest. Ukraine’s Stanislav Tolkachev, making his Swedish debut. His first record came out on Grovskopa’s Pohjola Records in 2006. Twenty years later he remains one of techno's most uncompromising voices. No detours. No compromise. Also joining is Malmö's own Rebecka Sekelius, a selector with an exceptionally deep understanding of techno's past, present and future. On the floor, Spåra Collective – the queer dance collective of Bella Khanamidi, Klara Pertmann and Ethan Sammons Ericson – will blur the line between club and performance. Working in direct exchange with the DJs, Spåra create spaces for alternative modes of existence and freedom, allowing bodies, movement and sound to collide in real time. Not a performance in front of the dancefloor, but one unfolding inside it. Visuals by Adèle Tornberg, who also created the artwork for the forthcoming Grovskopa EP and the visual identity of this night. Let's party like it's Bratislava 2002.",
-      "source_name": "Inkonst",
-      "event_url": "https://inkonst.com/events/grovskopa-mord-resurrection"
     },
     {
       "title": "Al Pitcher & Russell Howard",
@@ -6830,18 +6710,6 @@
       "description": "Eftersom Cinematekets vanliga salong, Alcazar, renoveras under hösten startar säsongen i salong Bar Deco. Säljer visningarna slut i förväg adderas en parallell visning i salong Camera. I november är Alcazar tillbaka som Cinematekets hem. Maj 1945. På ett sjabbigt hotell i en polsk provinsstad firas slutet på tyskockupationen med fyrverkerier och framtidsdrömmar. Samtidigt är två motståndsmän redan indragna i kriget mot nästa ockupant och förberederr mordet på en sovjetvänlig politiker. Men Maciek, som ska döda, vill hellre förälska sig i flickan bakom bardisken och Szczuka, som ska dö, vill hellre återförenas med sin politiskt alienerade son. Filmen, baserad på en roman av Jerzy Andrzejewski och med foto av Jerzy Wójcik, förbinder poetisk realism med expressionism och anses av många vara Andrzej Wajdas mästerverk. Zbigniew Cybulski blev kultförklarad efter sin filmdebut i solglasögon, militärjacka och med James Deansk sårbarhet mitt i skottelden. \"A rebel with too many causes\" om man så vill. Format : DCP",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/cine-aska-och-diamanter"
-    },
-    {
-      "title": "Det nya landet – Ibrahim Faal",
-      "start_datetime": "2026-10-13T18:30:00+02:00",
-      "end_datetime": null,
-      "venue": "Inkonst",
-      "address": null,
-      "category": "MAT & DRYCK",
-      "price": null,
-      "description": "13—15 October 2026 • 8pm: A man stands between the past and the present, trying to understand who he is when what was once obvious is no longer there. The New Country is a monologue about identity, belonging, and the internal consequences of migration. Through a personal yet universally relatable story, it explores what happens when the concept of home loses its obvious meaning, and the responsibility that comes with carrying multiple worlds within oneself. The performance moves between memory and the present, between humor and vulnerability. With a physical and intimate stage expression, Ibrahim Faal portrays a person in motion between different worlds, expectations, and heritage. The audience is invited into a space where identity is not fixed, but something that is constantly renegotiated, shaped by history, language, responsibility, and the gazes of others. CREDS By and with: Ibrahim Faal Director: Johan Svensson",
-      "source_name": "Inkonst",
-      "event_url": "https://inkonst.com/events/det-nya-landet-ibrahim-faal"
     },
     {
       "title": "Krismöte!",
@@ -7036,18 +6904,6 @@
       "event_url": "https://moriskapaviljongen.se/program/nisse-hallberg-15-okt-2026/"
     },
     {
-      "title": "Jonas Abrahamsson + TUNGA DIVISIONEN",
-      "start_datetime": "2026-10-15T20:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Inkonst",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Thursday 15 October 2026 • 8pm: Some artists arrive with a fixed formula. Jonas Abrahamsson seems more interested in what happens when a song is allowed to change direction halfway through. On 15 October, Abrahamsson comes to Inkonst to perform music from BIG LOVE, his debut album released earlier this year. The record introduces a songwriter with a restless approach to form and a clear commitment to following ideas wherever they lead. What begins as an intimate song can gradually open into something larger, brighter or stranger, always guided by curiosity rather than convention. For many in the extended Inkonst and Intonal orbit, Abrahamsson is already a familiar face as the wild-eyed drummer of Vanligt Folk, known for turning serving trays, his own skull and whatever else happens to be nearby into percussion instruments. BIG LOVE places songwriting at the centre of the picture, while retaining the unpredictability, humour and emotional directness that have long defined his performances. Drawing from pop, indie and rock traditions, the songs leave room for spontaneity, unexpected turns and linguistic play, with Abrahamsson often moving between multiple languages during a set. Opening the evening are local heroes TUNGA DIVISIONEN. Formed in a rehearsal room on the outskirts of Malmö, the group has built a reputation for energetic live performances and a playful approach to songwriting. Their music combines elements of indie pop, funk and soul into a sound that feels distinctly their own. RIYL: Arthur Russell, Alice Boman, The Shins, Bob Hund, Muse, Erkan Oğur, Lill-Babs",
-      "source_name": "Inkonst",
-      "event_url": "https://inkonst.com/events/jonas-abrahamsson-tunga-divisionen"
-    },
-    {
       "title": "Mica Millar",
       "start_datetime": "2026-10-15T00:00:00+02:00",
       "end_datetime": null,
@@ -7130,18 +6986,6 @@
       "description": null,
       "source_name": "Moriska Paviljongen",
       "event_url": "https://moriskapaviljongen.se/program/lovad-16-okt-2026/"
-    },
-    {
-      "title": "Malmö Jazz Story pres: Marquis Hill Blacktet (US) + Gábor Bolla Trio (HU) plays Coltrane",
-      "start_datetime": "2026-10-16T19:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Inkonst",
-      "address": null,
-      "category": "KONST",
-      "price": null,
-      "description": "Friday 16 October 2026 • 7pm: Malmö Jazz Story returns for its second year! A musical celebration for all the senses, where tradition meets innovation and the audience is invited into a spirit of community and new experiences. With international guests, genre-crossing expressions, and a warm sense of togetherness, Plan B, Inkonst and Malmö Live will be filled with bandleaders, soloists and inspiring conversations - a vibrant, inclusive, and recurring platform for jazz in all its forms. Behind Malmö Jazz Story is artistic director Andreas Romano alongside producer Viktor Andersson and artist Miriam Aïda. MJS Insta\\ MJS Hemsida Marquis Hill Blacktet (US) \\ Born and raised on Chicago’s South Side, Marquis Hill has become an internationally acclaimed artist known for breaking down musical barriers. From winning the prestigious Thelonious Monk Jazz Competition to leading his celebrated group, the Blacktet, Hill blends jazz, hip-hop, R&B, and soul into a sound that is both rooted in tradition and fearlessly contemporary. His music reflects the richness of African-American creative heritage - “different branches of the same tree�?. His sound is somehow both deeply distinctive and a tour through jazz-trumpet history, evoking the high- drama stillness and space of Miles; the undeniable virtuosity of Clifford Brown and Freddie Hubbard; the groove-savvy phrasing of Lee Morgan and Donald Byrd; and much more. Throughout his journey, he has supported and guested with a who’s who of jazz that includes Marcus Miller, Dee Dee Bridgewater, Boney James, Kurt Elling, Joe Lovano and Hill’s trailblazing Chicago peer Makaya McCraven. “A remarkably polished, immensely attractive ensemble.�?\\ -Chicago Tribune Line up:\\ • Marquis Hill - Trumpet\\ • Emmanuel Micheal - Guitar\\ • Junius Paul - Electric Bass\\ • Jonathan Pinson - Drums Instagram \\ Web Gábor Bolla Trio (HU) plays Coltrane Gábor Bolla is an acclaimed Hungarian saxophonist and bandleader, born in Budapest. A child prodigy on clarinet, he switched to saxophone at 15 and soon gained international recognition, receiving several prestigious awards, including the Hans Koller Prize, and winning both the Grand Prix and Prix du Public at the Avignon Jazz Festival with the Bolla Quartet. Bolla is deeply rooted in bebop and hard bop. Over the past two decades he has performed and recorded with leading jazz artists including Kirk Lightsey, Gary Peacock, Randy Brecker, Mike Stern and Dennis Chambers. For Malmö Jazz Story he has assembled an amazing trio to celebrate the 100th anniversary of John Coltrane with a fierce and explosive set. “An improviser of overwhelming individuality.�?\\ - All About Jazz\\ \\ Line up:\\ • Gábor Bolla - Saxophone\\ • Daniel Franck - Bass\\ • Zoltán Csörsz - Drums https://www.instagram.com/bollajazz/ DJs:\\ Barbara Frey \\ Måns Mernsten",
-      "source_name": "Inkonst",
-      "event_url": "https://inkonst.com/events/malmo-jazz-story-pres-marquis-hill-blacktet-us"
     },
     {
       "title": "Aurell & Gullberg | Killarna mot tjejerna",
@@ -7672,6 +7516,18 @@
       "event_url": "https://kulturcentralen.nu/evenemang/thebulgarianvoicesangelitebg"
     },
     {
+      "title": "Villa Vilse",
+      "start_datetime": "2026-10-22T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Se originalsidan",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": null,
+      "source_name": "Kulturcentralen",
+      "event_url": "https://kulturcentralen.nu/evenemang/villa-vilse"
+    },
+    {
       "title": "Gengångare",
       "start_datetime": "2026-10-23T19:00:00+02:00",
       "end_datetime": null,
@@ -7694,18 +7550,6 @@
       "description": null,
       "source_name": "Malmö Stadsteater",
       "event_url": "https://www.malmostadsteater.se/sommarkvallar-pa-jorden"
-    },
-    {
-      "title": "SHE PAST AWAY (TR) + Abu Nein",
-      "start_datetime": "2026-10-23T20:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Inkonst",
-      "address": null,
-      "category": "MAT & DRYCK",
-      "price": null,
-      "description": "Friday 23 October 2026 • 8pm: Haunted melodies for haunted times. SHE PAST AWAY channel the ghosts of post-punk past into a sound that pulses urgently in the now. Emerging from the shadows of Bursa, Turkey, SHE PAST AWAY has carved out a singular space in the global dark wave underground. With Volkan Caner’s deadpan baritone and Doruk Öztürkcan’s laced machines, their sound is all minimal menace and melancholy glamour—a sleek, Turkish-language incantation of existential dread wrapped in dancefloor hypnosis. Since their cult EP Kasvetli Kutlama dropped in 2009, they’ve gone on to define a genre while refusing to be confined by it. Their debut LP Belirdi Gece (2012) became an instant classic, followed by Narin Yalnızlık (2015) and the disco-noir masterpiece Disko Anksiyete (2019). Their world is one of fog machines and flickering strobes, where Bauhaus meets Suicide in a basement rave. The 2020 remix album X—featuring reworks by Boy Harsher, Lebanon Hanover, and The Soft Moon—only cemented their cult status. Support on this night comes from Malmö’s own welle cult, Abu Nein—local heroes with hearts wired to vintage synths and cinematic gloom. RIYL: The Sisters of Mercy, Lebanon Hanover, Boy Harsher, Qual, Siouxsie and the Banshees, The Soft Moon, Joy Division, Linea Aspera, Drab Majesty, The Cure, Clan of Xymox, Suicide, Molchat Doma, TR/ST. Concert included in the AW26 season pass!",
-      "source_name": "Inkonst",
-      "event_url": "https://inkonst.com/events/she-past-away-tr-abu-nein"
     },
     {
       "title": "OLOF DREIJER",
@@ -8428,18 +8272,6 @@
       "event_url": "https://mau.se/kalender/requiem/"
     },
     {
-      "title": "Villa Vilse",
-      "start_datetime": "2026-11-01T00:00:00+01:00",
-      "end_datetime": null,
-      "venue": "Se originalsidan",
-      "address": null,
-      "category": "ÖVRIGT",
-      "price": null,
-      "description": null,
-      "source_name": "Kulturcentralen",
-      "event_url": "https://kulturcentralen.nu/evenemang/villa-vilse"
-    },
-    {
       "title": "SOULlinedance",
       "start_datetime": "2026-11-02T17:00:00+01:00",
       "end_datetime": null,
@@ -8692,6 +8524,18 @@
       "event_url": "https://mau.se/kalender/mau-reading-party3/"
     },
     {
+      "title": "Los Pirañas (CO)",
+      "start_datetime": "2026-11-06T19:00:00+01:00",
+      "end_datetime": null,
+      "venue": "Inkonst",
+      "address": null,
+      "category": "HISTORIA",
+      "price": null,
+      "description": "Friday 6 November 2026 • 7pm: Rhythm mutates into something unruly in the hands of Los Pirañas. Drawing from the deep musical traditions of Colombia, the trio twists familiar forms into hypnotic, unpredictable excursions where groove, distortion and playfulness move as one. Formed by three of Colombia's most adventurous musicians—Eblis �?lvarez (Meridian Brothers), Mario Galeano (Frente Cumbiero, Ondatrópica) and Pedro Ojeda (Romperayo)—Los Pirañas have spent nearly three decades reshaping tropical music from the inside. Vallenato, cumbia, champeta and Peruvian chicha become raw material for restless experimentation, propelled by wiry guitar lines, elastic bass, explosive percussion and a fearless instinct for improvisation. Their music refuses nostalgia. It expands tradition into something alive and elastic, balancing meticulous musicianship with surreal detours and an infectious sense of momentum. Every outing unfolds with the energy of a band willing to follow an idea wherever it leads, shifting effortlessly between intricate rhythmic interplay, noisy textures and irresistible dancefloor propulsion. The trio has built a devoted international following through appearances at festivals including Roskilde, Druga Godba and Best Kept Secret, establishing themselves as one of the defining voices in Colombia's contemporary underground. Following Historia Natural (2019), their return brings a new chapter with fresh material set for release on Glitterbeat, reaffirming their singular approach to psychedelic tropical music. RIYL: Meridian Brothers, Föllakzoid, cumbia, The Residents, Dengue Dengue Dengue, Mad Professor, Captain Beefheart, Frente Cumbiero, Romperayo, La BOA, Ondatrópica, The Mauskovic Dance Band, Chancha Vía Circuito, Son Rompe Pera, Chupame El Dedo. Concert included in the AW26 season pass!",
+      "source_name": "Inkonst",
+      "event_url": "https://inkonst.com/events/los-piranas-co"
+    },
+    {
       "title": "Sommarkvällar på jorden",
       "start_datetime": "2026-11-06T19:00:00+01:00",
       "end_datetime": null,
@@ -8738,6 +8582,18 @@
       "description": null,
       "source_name": "Malmö Stadsteater",
       "event_url": "https://www.malmostadsteater.se/sommarkvallar-pa-jorden"
+    },
+    {
+      "title": "Bitchin Bajas (US) + 55 Cancri e",
+      "start_datetime": "2026-11-07T19:00:00+01:00",
+      "end_datetime": null,
+      "venue": "Inkonst",
+      "address": null,
+      "category": "MAT & DRYCK",
+      "price": null,
+      "description": "Saturday 7 November 2026 • 7pm: Bitchin Bajas make music for extended states of attention, built from repetition, sustained tones and subtle shifts in texture. For more than fifteen years, the Chicago trio have developed a patient instrumental language of drones, pulses and acoustic resonance, giving each sound plenty of room to linger. Founded in 2010 as a solo project by Cooper Crain of Cave, Bitchin Bajas gradually expanded with Dan Quinlivan and Rob Frye into its current three-piece formation. Early home-recorded cassette experiments established an approach that still runs through their music: synthesizers, organ, guitar, flute and saxophone arranged in loops and long, slowly evolving patterns. Minimalism, kosmische music and exploratory electronics provide some coordinates, with the influence of figures such as Terry Riley, Cluster and Harmonia audible without weighing down the trio’s own distinctive vocabulary. Across records including Bitchitronics, Bajas Fresh, Bajascillators and 2025’s Inland See, Bitchin Bajas favour duration, repetition and close listening. Their collaborative work extends the same open-ended approach, with projects alongside Natural Information Society and Bonnie “Prince�? Billy. Opening the evening is 55 Cancri e, the long-running solo project of Malmö multidisciplinary artist Sara Hausenkamp. Improvisation sits at the centre of her practice, with layers of guitar and voice accumulating into dense, emotionally charged sound fields. Distortion, repetition and open space shape music that can feel intimate, expansive and slightly untethered. Hausenkamp has released work through Music For Dreams, Midira Records, SKÖRD, Mima Kassett and Civic Sounds, and has previously shared bills with Fennesz, Drew McDowall, Jessica Moss, Marisa Anderson and Circuit des Yeux. RIYL: Cluster, Harmonia, Neu!, Brian Eno, Horse Lords, Popol Vuh, Emeralds, Tortoise, Bonnie “Prince�? Billy, Laraaji, Fennesz, Jessica Moss, kosmische, Natural Information Society. Concert included in the AW26 season pass!",
+      "source_name": "Inkonst",
+      "event_url": "https://inkonst.com/events/bitchin-bajas-us-55-cancri-e"
     },
     {
       "title": "Lars Winnerbäck",
@@ -8884,6 +8740,18 @@
       "event_url": "https://biografspegeln.se/program/cine-hustruer-tio-ar-senare"
     },
     {
+      "title": "Moor Mother (US)",
+      "start_datetime": "2026-11-10T19:00:00+01:00",
+      "end_datetime": null,
+      "venue": "Inkonst",
+      "address": null,
+      "category": "JAZZ",
+      "price": null,
+      "description": "Tuesday 10 November 2026 • 7pm: Moor Mother is the project of Camae Ayewa, a musician, poet and visual artist whose work channels Black history, radical imagination and collective memory through sound. Moving through electronic music, free jazz, hip-hop, noise and spoken word, she has developed a language where music becomes a tool for research, transmission and liberation. Born in Maryland and based in Philadelphia, Ayewa works across disciplines with an approach deeply informed by archival research and Black radical traditions. Central to her practice is Black Quantum Futurism, the interdisciplinary project she co-founded with Rasheedah Phillips, which explores alternative experiences of time and space through Afrofuturist thought, writing, music and visual art. These ideas run throughout Moor Mother’s work, where the past remains active and history becomes material to be questioned, sampled and rewritten. Her 2016 debut Fetish Bones, released by Don Giovanni Records, introduced this methodology with extraordinary force. Its dense electronics, fragmented samples and incantatory poetry confronted histories of enslavement, racial violence and erasure, establishing Ayewa as one of the most singular voices in contemporary experimental music. Ten years after its release, she returns to perform the album in full. Since then, her restless practice has expanded through albums including Analog Fluids of Sonic Black Holes, Black Encyclopedia of the Air, Jazz Codes and The Great Bailout. She also performs with free-jazz collective Irreversible Entanglements and has collaborated with artists including Lonnie Holley, Mary Lattimore, billy woods and Nicole Mitchell. Across it all, Moor Mother treats sound as an archive with its doors blown open. RIYL:* Matana Roberts, Lonnie Holley, Dälek, clipping., billy woods, Angel Bat Dawid, Nicole Mitchell, Slauson Malone 1, Saul Williams, Klein, Speaker Music, Sun Ra, Alice Coltrane, Nina Simone, Public Enemy, punk and hardcore, Afrofuturism, Black radical poetry, free jazz, Backxwash.* This concert is presented in collaboration with Black Archives Sweden, amplifying stories and sounds from Black diasporic futures. Concert included in the AW26 season pass!",
+      "source_name": "Inkonst",
+      "event_url": "https://inkonst.com/events/moor-mother-us"
+    },
+    {
       "title": "Sommarkvällar på jorden",
       "start_datetime": "2026-11-10T19:00:00+01:00",
       "end_datetime": null,
@@ -9002,6 +8870,18 @@
       "description": "Spegelns populära filmquiz med Kristoffer Jonzon! Här grillas du med frågor om allt från blockbusters till independentfilm. AW & quiz i ljuvlig kombo – varannan torsdag klockan 18. Njut av en middag och quizza i vår bistro. Bordsbokningen öppnar på måndagar klockan 10.00, samma vecka som quizet äger rum. Vill du lägga till fler i din bokning? Fråga om ni får plats via info@biografspegeln.se . Vill du testa din drop-in-lycka har vi ett antal bord som inte går att boka i förväg. Fri entré och max fem personer per lag. Vi utlovar i vanlig ordning pris till både bästa lag och fyndigaste lagnamn! MÅ BÄSTE FILMNÖRD VINNA!",
       "source_name": "Biograf Spegeln",
       "event_url": "https://biografspegeln.se/program/spegelns-filmquiz"
+    },
+    {
+      "title": "Ana Roxanne (US) + L. T. Fisk",
+      "start_datetime": "2026-11-12T19:00:00+01:00",
+      "end_datetime": null,
+      "venue": "Inkonst",
+      "address": null,
+      "category": "KONST",
+      "price": null,
+      "description": "Thursday 12 November 2026 • 7pm: Ana Roxanne makes music for states that resist easy definition. Across voice, piano and electronics, the Bay Area-born, New York-based composer traces grief, intimacy and transformation with an extraordinary sensitivity to space. Her wider breakthrough arrived with \\\\\\, a collection whose unusually quiet power made it one of 2019’s most acclaimed ambient releases. Originally self-released in 2015 and circulated among friends, the record found a larger audience when Leaving Records reissued it four years later. Its six pieces introduced Roxanne’s remarkably assured musical language: devotional vocals, suspended electronics, field recordings and slowly unfolding melodies shaped by her background in choral music and her studies of Hindustani singing. Intimate without feeling insular, \\\\\\ turned inward as a way of opening onto something larger. Critics responded accordingly, with the release appearing across numerous year-end lists and establishing Roxanne as a singular new presence in experimental music. She expanded that vocabulary on 2020’s Because of a Flower, released by Kranky, exploring identity, spirituality and embodiment through ambient songwriting. Her latest album, Poem 1, goes somewhere more exposed. Written through heartbreak and grief, it moves at an unhurried pace through decelerated jazz, minimalism, vocal folk traditions and ambient music. Smoky piano themes, synthesizer drift and vulnerable vocals give loss room to remain unresolved, gradually revealing glimmers of renewal. Since \\\\\\~, Roxanne’s practice has continued to widen. She has performed at Glastonbury, Rewire, Dekmantel and Le Guess Who, composed for film and installation, reworked Beverly Glenn-Copeland’s “Old Melody,�? and collaborated with DJ Python as Natural Wonder Beauty Concept. Her music rarely raises its voice. It changes the temperature of the room instead. Support: L. T. Fisk\\ Arlöv-based songwriter L. T. Fisk has spent some thirty years developing a universe of songs entirely his own. Here, song is less a fixed form than an urge, an absence, a disturbance — something that persists whether or not it is heard. At Inkonst, he appears in its most elemental configuration: voice and pump organ. In Fisk’s own words:\\ “När vi nämner mörker menar vi brist på kärlek och det som är heligt är för alltid lågt och fult och smutsigt och i oss hälls en flytande kärna av ömhet. Och den sång som aldrig hörs, finns ändå, och denna sång som aldrig hörs, öppnar hela meningen till varför sången måste finnas. Ty endera dagen blir den mänska och det kreatur som aldrig hört denna sång, den perfekta följaren av sång.�? RIYL:* Beverly Glenn-Copeland, Alice Coltrane, Sade, Ryuichi Sakamoto, Cocteau Twins, Hindustani classical vocal traditions, Grouper, Julianna Barwick, DJ Python, Claire Rousay, Malibu, Nala Sinephro, Kara-Lis Coverdale, Lucrecia Dalt, Ulla, Space Afrika, Huerco S, Nico, Daniel Johnston Philemon Arthur and the Dung.* Concert included in the AW26 season pass!",
+      "source_name": "Inkonst",
+      "event_url": "https://inkonst.com/events/ana-roxanne-us-l-t-fisk"
     },
     {
       "title": "Johanna Linnea Jakobsson",
@@ -9520,6 +9400,18 @@
       "event_url": "https://www.malmoarena.com/evenemang/timbuktu?hsLang=sv"
     },
     {
+      "title": "La Tène (FR/CH)",
+      "start_datetime": "2026-11-21T20:00:00+01:00",
+      "end_datetime": null,
+      "venue": "Inkonst",
+      "address": null,
+      "category": "MAT & DRYCK",
+      "price": null,
+      "description": "Saturday 21 November 2026 • 8pm: For over a decade, La Tène has forged a singular musical language from repetition, resonance and slow transformation. Their music unwraps patiently, drawing listeners into rhythmic cycles where folk traditions erupt into something timeless and immersive. Since their debut ten years ago, the Swiss ensemble has continuously refined an approach rooted in acoustic instruments, minimal gestures and collective momentum. Across four albums and numerous collaborations, La Tène has become known for stretching the possibilities of traditional forms through precision, endurance and subtle shifts in texture. Their coming sixth album, Melnetta/Tardive (Les Disques Bongo Joe / Murailles Music), opens a new chapter. The hurdy-gurdy, long central to the group's identity, gives way to a stripped-back configuration built around electronic percussion, harmonium and live dub processing. Rather than marking a departure, the new instrumentation deepens the band's fascination with rhythm as a physical force. Pulses accumulate, harmonics bloom and spacious production allows every vibration to linger. La Tène's performances move with quiet intensity, inviting close attention while remaining deeply corporeal. Their music exists between ritual, trance and contemporary composition, creating expansive sonic environments where time slows and every detail packs weight. RIYL: Sarah Davachi, Bear Bones Lay Low, Brìghde Chaimbeul, Oranssi Pazuzu, Natural Information Society, Fire!, Supersilent, Ellen Arkbro, Charlemagne Palestine, Holy Tongue, Occitan folk music, Minimalism, Terry Riley, Eliane Radigue, La Monte Young. Concert included in the AW26 season pass!",
+      "source_name": "Inkonst",
+      "event_url": "https://inkonst.com/events/la-tene-frch"
+    },
+    {
       "title": "The Boyband",
       "start_datetime": "2026-11-21T20:00:00+01:00",
       "end_datetime": null,
@@ -9820,6 +9712,18 @@
       "event_url": "https://inkonst.com/events/kokong-receptor"
     },
     {
+      "title": "raster. 30 years anniversary",
+      "start_datetime": "2026-11-27T20:00:00+01:00",
+      "end_datetime": null,
+      "venue": "Inkonst",
+      "address": null,
+      "category": "DESIGN",
+      "price": null,
+      "description": "27—28 November 2026 • 1am: **raster 30. Years anniversary.\\ Three decades of precision, reduction and electronic music refusing to stand still.\\ With: Frank Bretschneider · Gábor Lázár · Amelie Duchow · Xuri & John Cleworth** Founded by Olaf Bender and Frank Bretschneider as rastermusic in 1996, raster has spent three decades exploring the borderlands of electronic music, art and science. In 1999, it merged with Carsten Nicolai’s NOTON to form raster-noton, before becoming independent again as raster in 2017. Across some 200 releases — alongside books, installations and live presentations — the label has brought together visual artists, club musicians, noise pioneers, composers and instrumentalists, connected less by genre than by a shared appetite for experimentation. Thirty years after its first release, raster comes to Inkonst for an anniversary night celebrating a catalogue — and an artistic network — that continues to ask what electronic music can be. Co-founder Frank Bretschneider has spent decades locating strange amounts of movement inside minimal structures. A musician, composer and video artist, his work is built from precise sound placement, interwoven rhythms and an unusually fluid sense of reduction, with visuals operating as an extension of the music rather than decoration. From experiments with tapes and synthesizers in East Germany to AG Geige, rastermusic and more than 30 albums, Bretschneider has developed a language where microscopic detail can produce very physical results. Hungarian producer Gábor Lázár pushes that logic into a more volatile digital present. His hyper-detailed compositions dismantle club music into repetition, texture and micro-modulation, then assemble it again according to their own peculiar physics. His raster debut Reflex moves gradually from unpredictable abstraction towards lean, playful forms of techno — music that seems to negotiate, in real time, between cerebral concentration and bodily impulse. German audiovisual artist Amelie Duchow works between sound, space, image and form. Subtle layers collide with intensive electronic structures, while visual perception becomes an active part of listening. Her practice extends from solo work to SCHNITT, the audiovisual project founded with Marco Monfardini, and a wider body of installations and performances exploring the unstable border between what we hear and what we see. Completing the night are Xuri & John Cleworth, bringing together Xuri’s evocative, colour-like approach to sonic landscapes with Cleworth’s intricate rhythms, synthesis and spatial sound design. Their audiovisual performance draws equally on graphic design and classical training, asking a deceptively simple question: what happens to a sound when an image changes how we perceive it — and vice versa? Thirty years in, raster remains less a monument to electronic music history than an argument for continuing to interrogate it: reduce the material, sharpen the senses, find another frequency. At Inkonst, we celebrate accordingly. Concert included in the AW26 season pass!",
+      "source_name": "Inkonst",
+      "event_url": "https://inkonst.com/events/raster-30-years-anniversary"
+    },
+    {
       "title": "Adventspyssel - Julkransbindning i Torup 2026 (Workshop)",
       "start_datetime": "2026-11-27T00:00:00+01:00",
       "end_datetime": null,
@@ -9902,6 +9806,18 @@
       "description": null,
       "source_name": "Malmö Stadsteater",
       "event_url": "https://www.malmostadsteater.se/i-skymningslandet"
+    },
+    {
+      "title": "Blanco Teta (AR)",
+      "start_datetime": "2026-11-28T20:00:00+01:00",
+      "end_datetime": null,
+      "venue": "Inkonst",
+      "address": null,
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "Saturday 28 November 2026 • 8pm: Bass, drums, processed cello and vocals form the volatile core of Blanco Teta, the Buenos Aires-born quartet pushing punk into stranger, harsher territory. Their music is physical and unruly, driven by noise, no-wave, grunge and DIY electronics, with a live presence built for catharsis rather than passive observation. Formed in 2017, Blanco Teta emerged from Argentina’s dissident queer underground with an unconventional rock setup and a desire to dismantle the expectations attached to it. Carola Zelaschi, Carlos Quebrada aka Genosidra, Violeta García and Josefina Barreix turn cello, bass, drums and voice into a dense and frequently abrasive language of their own. Distortion accumulates, rhythms fracture and songs threaten to collapse under their own pressure. Their latest album, La Debacle de las Divas, was recorded largely live between Buenos Aires and Barcelona. Released by Bongo Joe Records, it carries the immediacy of four musicians occupying the same room after years spent living across different countries. Punk abrasion, metallic grunge and corrosive walls of sound run through songs that remain unexpectedly direct. At its centre is the figure of the exhausted diva: no longer a “rising star,�? stuck on the Flixbus, navigating platform capitalism, precarious labour and the absurd demand to remain permanently visible. Blanco Teta answer with humour, anger and a refusal of meritocratic mythology. Their politics are embedded in the performance itself: queer, Latin American, working-class and defiantly collective. Onstage, that energy becomes confrontation and release. Blanco Teta do not so much perform at an audience as pull it into the beautiful mess. RIYL: Experimental punk, Alice in Chains, Los Brujos, Peligrosos Gorriones, no wave, Mabe Fratti, Taqbir, Rakta, Queer punk, Duma, Guttersnipe, Special Interest, Soul Glo, Deerhoof, Melt-Banana, Los Crudos. Concert included in the AW26 season pass!",
+      "source_name": "Inkonst",
+      "event_url": "https://inkonst.com/events/blanco-teta-ar"
     },
     {
       "title": "Adventspaddling i Häckebergasjön med kanadensare",
@@ -10321,7 +10237,7 @@
       "price": null,
       "description": "7/12 - DOC LOUNGE HOTSPOT Vi avslutar vår 20-årsjubileumssäsong med blicken framåt! Säsongsfinalen blir premiären för det nya konceptet Doc Lounge Hotspot, där publiken får möta framtiden inom skånsk dokumentärfilm. Under kvällen presenterar vi ett urval av de hetaste nya dokumentära kortfilmerna från Skåne, tillsammans med exklusiva presentationer av långfilmsprojekt i work in progress. Kvällen bjuder på filmvisningar, samtal, Q&As och en unik chans att få en första inblick i vad som är på gång inom skånsk dokumentärfilm. Projektet genomförs med stöd från Region Skåne i samarbete med Film i Skåne och Malmö stad. Skaffa biljetter",
       "source_name": "Doc Lounge Malmö",
-      "event_url": "https://www.doclounge.se/malmo"
+      "event_url": "https://billetto.se/e/sasongsavslutning-doc-lounge-hotspot-biljetter-1980648?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1"
     },
     {
       "title": "Lords of the Sound | Hogwarts Magic Symphony",
@@ -11630,6 +11546,30 @@
       "description": "Dansworkshop 60+ Workshoppar 26 augusti – 09 december Skånes Dansteater En dansworkshop för dig över 60 år. Anpassad aktivitet Anpassad aktivitet Anpassad aktivitet är en aktivitet som har anpassats efter en särskild grupps behov, som funktionsvariation eller en specifik åldergrupp. Boka biljett Läs mer",
       "source_name": "Skånes Dansteater",
       "event_url": "https://www.skanesdansteater.se/dansworkshop-60"
+    },
+    {
+      "title": "Exhibition: Hanakin Henriksson Skote",
+      "start_datetime": "2027-08-28T17:00:00+02:00",
+      "end_datetime": null,
+      "venue": "STPLN",
+      "address": "Stapelbäddsgatan 3, Malmö",
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "Aug 28 5:00 PM – 9:00 PM 17:00 – 21:00 5:00 PM – 9:00 PM Exhibition: Hanakin Henriksson Skote 5:00 PM – 9:00 PM 17:00 – 21:00 5:00 PM – 9:00 PM Single-day exhibition with works by Hanakin Henriksson Skote Read more → 5:00 PM – 9:00 PM 17:00 – 21:00 5:00 PM – 9:00 PM",
+      "source_name": "STPLN",
+      "event_url": "https://www.stpln.se/our-calendar/exhibition-hanakin-henriksson-skote"
+    },
+    {
+      "title": "\"Living with your demons\" - A solo exhibition by Jakob Håkonsson",
+      "start_datetime": "2027-08-28T17:30:00+02:00",
+      "end_datetime": null,
+      "venue": "STPLN",
+      "address": "Stapelbäddsgatan 3, Malmö",
+      "category": "ÖVRIGT",
+      "price": null,
+      "description": "Aug 28 5:30 PM 17:30 5:30 PM \"Living with your demons\" - A solo exhibition by Jakob Håkonsson 5:30 PM 17:30 5:30 PM This exhibition features the demons we all carry with us. In our world they are metaphorical - here, they become literal. Read more → 5:30 PM 17:30 5:30 PM",
+      "source_name": "STPLN",
+      "event_url": "https://www.stpln.se/our-calendar/living-with-your-demons-a-solo-exhibition-by-jakob-hkonsson"
     }
   ]
 }
