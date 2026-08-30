@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T14:53:12.281711+02:00",
+  "generated_at": "2026-08-30T14:59:57.950544+02:00",
   "event_count": 927,
   "events": [
     {
@@ -2305,6 +2305,19 @@
       "event_url": "https://www.jagersro.se/alla-event/2026/september/616619-jagersro-6-september/"
     },
     {
+      "event_id": "evt_8ab02bcc93b60abb026e7b8f",
+      "title": "Vafalls Live med Emil Hansius & Hampus Hedström",
+      "start_datetime": "2026-09-06T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Malmö Live",
+      "address": null,
+      "category": "MUSIK",
+      "price": null,
+      "description": null,
+      "source_name": "Malmö Live",
+      "event_url": "https://malmolive.se/program/vafalls-hansius-och-hedstrom "
+    },
+    {
       "event_id": "evt_9c55950a3889f2bdd4fd30c7",
       "title": "André Rieu's 2026 Summer Concert: Viva Maastricht!",
       "start_datetime": "2026-09-07T14:00:00+02:00",
@@ -2628,6 +2641,19 @@
       "description": "Jazz Sabbath Inkonst 2026‑09‑09 Musik & Show Läs mer",
       "source_name": "Visit Malmö",
       "event_url": "https://kulturbolaget.se/konserter/2025/jazz-sabbath-mlm/"
+    },
+    {
+      "event_id": "evt_fdae37f1ed8dab0b1e657976",
+      "title": "Malmö Live Comedy",
+      "start_datetime": "2026-09-09T00:00:00+02:00",
+      "end_datetime": null,
+      "venue": "Malmö Live",
+      "address": null,
+      "category": "MUSIK",
+      "price": null,
+      "description": null,
+      "source_name": "Malmö Live",
+      "event_url": "https://malmolive.se/program/malmo-live-comedy "
     },
     {
       "event_id": "evt_5b91a5a36fee8807349f8414",
@@ -3059,19 +3085,6 @@
       "event_url": "https://slagthuset.se/events/the-jayhawks"
     },
     {
-      "event_id": "evt_1007a3faa56db4ae837195a4",
-      "title": "The Suite Life of Ros & Lola",
-      "start_datetime": "2026-09-11T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Malmö Live",
-      "address": null,
-      "category": "MUSIK",
-      "price": null,
-      "description": null,
-      "source_name": "Malmö Live",
-      "event_url": "https://malmolive.se/program/the-suite-life-of-ros-lola "
-    },
-    {
       "event_id": "evt_39d9942f14f31c091b16d66f",
       "title": "Den fula ankungen",
       "start_datetime": "2026-09-12T13:00:00+02:00",
@@ -3330,19 +3343,6 @@
       "description": "Malmö English Comedy Nights Scandic Triangeln 2026‑09‑12 Humor Läs mer",
       "source_name": "Visit Malmö",
       "event_url": "https://billetto.se/en/e/malmo-english-comedy-nights-scandic-triangeln-upcoming-shows-biljetter-761959"
-    },
-    {
-      "event_id": "evt_8863eae9f837eede88db9fcd",
-      "title": "Smash Into Pieces",
-      "start_datetime": "2026-09-12T00:00:00+02:00",
-      "end_datetime": null,
-      "venue": "Malmö Live",
-      "address": null,
-      "category": "MUSIK",
-      "price": null,
-      "description": null,
-      "source_name": "Malmö Live",
-      "event_url": "https://malmolive.se/program/smash-into-pieces "
     },
     {
       "event_id": "evt_c2b6b030ee2509c45371548e",
